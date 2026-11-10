@@ -196,3 +196,7 @@ titles, the project file name, anything under "Requests for main session" (max 1
 - Practice reuses the same chocolate across lessons (re-melt), so a module costs little; the project
   self-check table ends with a "בלי בזבוז" row.
 - Read `lessons/module-03/` before writing, and match its depth (~15-19 KB per lesson).
+- Before writing, grep `curriculum/matrix/module-*.md` for your module number (e.g. `06.`) under
+  "Requests": earlier modules ask for specific links back to them; make those links.
+- Shared food-safety numbers (from 02.2): fridge ≤4°C; perishable items at most 2 hours out of the
+  fridge, 1 hour above 32°C.

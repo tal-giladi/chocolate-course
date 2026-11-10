@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="720" height="440" font-family="Arial, Helvetica, sans-serif" role="img" aria-label="הרכב טיפוסי של ארבעה סוגי שוקולד: מריר, חלב, לבן ושוקולד ציפוי">
+  <rect x="0" y="0" width="720" height="440" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+  <text x="360" y="32" font-size="20" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">מה יש בתוך השוקולד: הרכב טיפוסי באחוזים</text>
+  <text x="360" y="54" font-size="13" fill="#333333" text-anchor="middle" direction="rtl">דוגמה בלבד; ההרכב המדויק כתוב ברשימת הרכיבים של כל מוצר</text>
+  <!-- scale: 100% = 260 px, bars bottom at y=350, top at y=90 -->
+  <line x1="60" y1="350" x2="680" y2="350" stroke="#222222" stroke-width="2"/>
+  <g stroke="#222222" stroke-width="1.5">
+    <!-- dark 70: cocoa solids 38 (98.8px), cocoa butter 32 (83.2), sugar 29 (75.4), other 1 (2.6) -->
+    <rect x="560" y="251.2" width="90" height="98.8" fill="#5a3418"/>
+    <rect x="560" y="168" width="90" height="83.2" fill="#e8c27a"/>
+    <rect x="560" y="92.6" width="90" height="75.4" fill="#f4f4f4"/>
+    <rect x="560" y="90" width="90" height="2.6" fill="#9a9a9a"/>
+    <!-- milk 35: cocoa solids 10 (26), cocoa butter+milk fat 25 incl milk solids: cocoa butter 25 (65), milk solids 22 (57.2), sugar 42 (109.2), other 1 (2.6) -->
+    <rect x="410" y="324" width="90" height="26" fill="#5a3418"/>
+    <rect x="410" y="259" width="90" height="65" fill="#e8c27a"/>
+    <rect x="410" y="201.8" width="90" height="57.2" fill="#a9c8e8"/>
+    <rect x="410" y="92.6" width="90" height="109.2" fill="#f4f4f4"/>
+    <rect x="410" y="90" width="90" height="2.6" fill="#9a9a9a"/>
+    <!-- white 28: cocoa butter 28 (72.8), milk solids 24 (62.4), sugar 47 (122.2), other 1 (2.6) -->
+    <rect x="260" y="277.2" width="90" height="72.8" fill="#e8c27a"/>
+    <rect x="260" y="214.8" width="90" height="62.4" fill="#a9c8e8"/>
+    <rect x="260" y="92.6" width="90" height="122.2" fill="#f4f4f4"/>
+    <rect x="260" y="90" width="90" height="2.6" fill="#9a9a9a"/>
+    <!-- compound: cocoa powder 12 (31.2), vegetable fat 33 (85.8), sugar 53 (137.8), other 2 (5.2) -->
+    <rect x="110" y="318.8" width="90" height="31.2" fill="#5a3418"/>
+    <rect x="110" y="233" width="90" height="85.8" fill="#8fbf7f"/>
+    <rect x="110" y="95.2" width="90" height="137.8" fill="#f4f4f4"/>
+    <rect x="110" y="90" width="90" height="5.2" fill="#9a9a9a"/>
+  </g>
+  <!-- in-bar labels -->
+  <g font-size="12" text-anchor="middle" direction="rtl">
+    <text x="605" y="305" fill="#ffffff">מוצקי קקאו</text>
+    <text x="605" y="214" fill="#111111">חמאת קקאו</text>
+    <text x="605" y="134" fill="#111111">סוכר</text>
+    <text x="455" y="296" fill="#111111">חמאת קקאו</text>
+    <text x="455" y="234" fill="#111111">מוצקי חלב</text>
+    <text x="455" y="150" fill="#111111">סוכר</text>
+    <text x="305" y="318" fill="#111111">חמאת קקאו</text>
+    <text x="305" y="250" fill="#111111">מוצקי חלב</text>
+    <text x="305" y="157" fill="#111111">סוכר</text>
+    <text x="155" y="339" fill="#ffffff">קקאו</text>
+    <text x="155" y="280" fill="#111111">שומן צמחי</text>
+    <text x="155" y="168" fill="#111111">סוכר</text>
+  </g>
+  <!-- column titles -->
+  <g font-size="14" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">
+    <text x="605" y="372">מריר 70%</text>
+    <text x="455" y="372">חלב 35%</text>
+    <text x="305" y="372">לבן 28%</text>
+    <text x="155" y="372">שוקולד ציפוי</text>
+  </g>
+  <g font-size="12" fill="#333333" text-anchor="middle" direction="rtl">
+    <text x="605" y="390">טמפרור: כן</text>
+    <text x="455" y="390">טמפרור: כן</text>
+    <text x="305" y="390">טמפרור: כן</text>
+    <text x="155" y="390">טמפרור: לא</text>
+  </g>
+  <text x="360" y="420" font-size="12" fill="#333333" text-anchor="middle" direction="rtl">אפור דק בראש כל עמוד: לציטין, וניל ותוספות קטנות. "מוצקי קקאו" כאן = החלק הכהה, בלי חמאת הקקאו</text>
+</svg>

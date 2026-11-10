@@ -21,7 +21,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - [x] References: `references/where-to-buy.md`, `references/kashrut-guide.md`
 - [x] Module 3 — טמפרור (pilot)
 - [ ] Module 1 — המטבח של השוקולד
-- [ ] Module 2 — המסה וטיבול בלי טמפרור
+- [x] Module 2 — המסה וטיבול בלי טמפרור
 - [ ] Module 4 — טבלאות ותבניות
 - [ ] Module 5 — בונבונים
 - [ ] Module 6 — גנאש וטראפלס
@@ -44,7 +44,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 
 ## Agents now
 
-- Module writers: module 1, module 2
+- Module writers: module 1, module 4
 
 ## Decisions and open questions
 
@@ -62,3 +62,4 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - References (2026-11-10): no dreidel mould sold in Israel → 08.2 must teach ordering abroad or a two-half-sphere/cone workaround;
   no vegan "milk" chocolate found in Israel (12.2 makes it at home); Cacao Barry and Belcolade ARE available.
 - Final QA: add marble/granite slab and room thermometer-hygrometer to where-to-buy (כלים); re-check Mycryo stock/kashrut; optional tempering-log columns (seed grams, minutes on slab).
+- Final QA: turn 02.1/02.2 plain mentions of 01.1/01.4 into links; where-to-buy lacks nuts & dried fruit, silicone ice-cube trays, disposable spoons.

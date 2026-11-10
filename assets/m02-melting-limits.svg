@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420" font-family="Arial, Helvetica, sans-serif" role="img" aria-label="עד כמה מחממים בהמסה: מריר עד 50 מעלות, חלב ולבן עד 40-45 מעלות, שוקולד ציפוי לפי האריזה">
+  <rect x="0" y="0" width="720" height="420" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+  <text x="360" y="34" font-size="20" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">עד כמה מחממים כשממיסים</text>
+  <!-- scale: x(t) = 60 + (t-30)*18 -->
+  <line x1="60" y1="330" x2="600" y2="330" stroke="#222222" stroke-width="2"/>
+  <g font-size="12" fill="#222222" text-anchor="middle">
+    <text x="60" y="348">30</text>
+    <text x="150" y="348">35</text>
+    <text x="240" y="348">40</text>
+    <text x="330" y="348">45</text>
+    <text x="420" y="348">50</text>
+    <text x="510" y="348">55</text>
+    <text x="600" y="348">60°C</text>
+  </g>
+  <g stroke="#222222" stroke-width="1">
+    <line x1="60" y1="330" x2="60" y2="336"/><line x1="150" y1="330" x2="150" y2="336"/><line x1="240" y1="330" x2="240" y2="336"/>
+    <line x1="330" y1="330" x2="330" y2="336"/><line x1="420" y1="330" x2="420" y2="336"/><line x1="510" y1="330" x2="510" y2="336"/><line x1="600" y1="330" x2="600" y2="336"/>
+  </g>
+  <!-- 33.8 line: x = 60 + 3.8*18 = 128.4 -->
+  <line x1="128" y1="62" x2="128" y2="330" stroke="#8a3b12" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="134" y="76" font-size="12" fill="#8a3b12" text-anchor="start" direction="rtl">מעל 34°C: הטמפר המקורי של קוברטורה נשבר</text>
+  <!-- row labels -->
+  <g font-size="15" font-weight="bold" fill="#111111" text-anchor="end" direction="rtl">
+    <text x="704" y="120">מריר</text>
+    <text x="704" y="180">חלב</text>
+    <text x="704" y="240">לבן</text>
+    <text x="704" y="300">ציפוי</text>
+  </g>
+  <!-- dark: safe to 50, caution 50-55 -->
+  <rect x="60" y="100" width="360" height="28" fill="#cfe3c6" stroke="#2f5d23" stroke-width="1.5"/>
+  <rect x="420" y="100" width="90" height="28" fill="#f6d9a8" stroke="#8a5a12" stroke-width="1.5"/>
+  <!-- milk: safe to 40, caution 40-45 -->
+  <rect x="60" y="160" width="180" height="28" fill="#cfe3c6" stroke="#2f5d23" stroke-width="1.5"/>
+  <rect x="240" y="160" width="90" height="28" fill="#f6d9a8" stroke="#8a5a12" stroke-width="1.5"/>
+  <!-- white: safe to 40, caution 40-48 -->
+  <rect x="60" y="220" width="180" height="28" fill="#cfe3c6" stroke="#2f5d23" stroke-width="1.5"/>
+  <rect x="240" y="220" width="144" height="28" fill="#f6d9a8" stroke="#8a5a12" stroke-width="1.5"/>
+  <!-- compound -->
+  <rect x="60" y="280" width="330" height="28" fill="#ffffff" stroke="#444444" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <g font-size="12" fill="#111111" direction="rtl" text-anchor="middle">
+    <text x="300" y="119">עד 50°C (King Arthur)</text>
+    <text x="465" y="119">50-55 לפי עקומה</text>
+    <text x="180" y="179">עד 40°C</text>
+    <text x="285" y="179">40-45</text>
+    <text x="180" y="239">עד 40°C</text>
+    <text x="312" y="239">40-48 לפי עקומה</text>
+    <text x="225" y="299">לפי האריזה; בלי עקומה: לא מעל 45°C</text>
+  </g>
+  <!-- legend -->
+  <rect x="470" y="362" width="18" height="14" fill="#cfe3c6" stroke="#2f5d23"/>
+  <text x="464" y="374" font-size="12" fill="#111111" text-anchor="end" direction="rtl">בטוח לכל מוצר</text>
+  <rect x="270" y="362" width="18" height="14" fill="#f6d9a8" stroke="#8a5a12"/>
+  <text x="264" y="374" font-size="12" fill="#111111" text-anchor="end" direction="rtl">רק אם היצרן כותב כך</text>
+  <text x="700" y="374" font-size="12" fill="#111111" text-anchor="end" direction="rtl">מקרא:</text>
+  <text x="360" y="402" font-size="12" fill="#444444" text-anchor="middle" direction="rtl">מעל הטווח: חלב וסוכר נפגעים, השוקולד מסמיך, מתגרען ועלול להישרף. העקומה על האריזה קודמת לטבלה.</text>
+</svg>

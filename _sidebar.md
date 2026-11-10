@@ -3,6 +3,12 @@
 - [איפה קונים: כלים, אריזות וחומרי גלם](references/where-to-buy.md)
 - [מדריך כשרות לחומרי גלם](references/kashrut-guide.md)
 - [תבניות](templates/README.md)
+- **Module 2 — המסה וטיבול בלי טמפרור**
+  - [06 · להמיס נכון: מיקרוגל, בן־מארי ולמה שוקולד נתפס](lessons/module-02/lesson-01.md)
+  - [07 · תותים ופירות מטובלים](lessons/module-02/lesson-02.md)
+  - [08 · מנדיאנטים וטבלאות פירות יבשים ואגוזים](lessons/module-02/lesson-03.md)
+  - [09 · כפיות שוקולד וסטיקים לשוקו חם](lessons/module-02/lesson-04.md)
+  - [מבחן מודול 2](assessments/module-02-quiz.md)
 - **Module 3 — טמפרור**
   - [10 · למה מטמפרים: ששת צורות הקריסטל](lessons/module-03/lesson-01.md)
   - [11 · טמפרור בשיטת ההזרעה](lessons/module-03/lesson-02.md)
