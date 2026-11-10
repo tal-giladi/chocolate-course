@@ -2,7 +2,7 @@
 
 Goal: build the Hebrew course "שוקולד בעבודת יד" per `curriculum/plan.md`, following
 `tals-academy/docs/new-course-instructions.md` (exception: Hebrew) and `curriculum/build-spec.md`,
-until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-course` (not created yet).
+until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-course` (public, GitHub Pages on).
 
 ## Resume procedure
 

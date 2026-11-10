@@ -5,7 +5,7 @@
 ## Before import
 
 - The Academy shows lessons and quizzes left-to-right only (no Hebrew/RTL locale). Hebrew text will import but read misaligned until the Academy sets `dir="rtl"` for this course (e.g. a per-course direction used on the lesson and quiz containers).
-- Create the GitHub repo `tal-giladi/chocolate-course`.
+- Website: https://tal-giladi.github.io/chocolate-course/ (GitHub Pages, main). Repo: tal-giladi/chocolate-course (public).
 - Decide price (suggested paid) and slug (`chocolate`): see `curriculum/course-details.md`.
 
 ## Unconfirmed rules the lessons mark "check the current rule"

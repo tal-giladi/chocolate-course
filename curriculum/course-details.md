@@ -4,7 +4,7 @@
 |---|---|
 | Title | שוקולד בעבודת יד: מהמטבח הביתי ועד חנות אונליין |
 | Suggested slug | `chocolate` |
-| GitHub repo | `tal-giladi/chocolate-course` (public; not created yet) |
+| GitHub repo | `tal-giladi/chocolate-course` (public) |
 | Price | Paid (suggestion; Tal decides) |
 | Language | Hebrew (Tal's exception, 2026-11-10). The Academy renders LTR only today: see TODO_FOR_TAL.md |
 | Format | 21 modules, 87 lessons with hands-on practice and multiple-choice quizzes, 21 module quizzes, 21 projects |
