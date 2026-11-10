@@ -39,12 +39,12 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - [x] Module 18 — מוצר, תווית וחיי מדף
 - [x] Module 19 — מספרים
 - [x] Module 20 — חנות אונליין ומשלוחים
-- [ ] Module 21 — שיווק והשקה
+- [x] Module 21 — שיווק והשקה
 - [ ] Final QA (check-course 0 problems, link check, TODO_FOR_TAL)
 
 ## Agents now
 
-- Paused (network down) mid module 21; resume: check curriculum/status/module-21.log, finish 21, then Final QA.
+- Final QA agent
 
 ## Decisions and open questions
 

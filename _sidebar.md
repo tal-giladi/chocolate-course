@@ -135,3 +135,8 @@
   - [83 · משלוח שוקולד בחום הישראלי](lessons/module-20/lesson-03.md)
   - [84 · מדיניות החזרות ושירות לקוחות](lessons/module-20/lesson-04.md)
   - [מבחן מודול 20](assessments/module-20-quiz.md)
+- **Module 21 — שיווק והשקה**
+  - [85 · אינסטגרם וטיקטוק: צילום, רילס ולוח תוכן לחגים](lessons/module-21/lesson-01.md)
+  - [86 · מתנות לחברות: הצעת מחיר, מיתוג והזמנות גדולות](lessons/module-21/lesson-02.md)
+  - [87 · ביקורות, לקוחות חוזרים ומנויים](lessons/module-21/lesson-03.md)
+  - [מבחן מודול 21](assessments/module-21-quiz.md)
