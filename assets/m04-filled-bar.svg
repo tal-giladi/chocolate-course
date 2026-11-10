@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" width="720" height="460" font-family="Arial, Helvetica, sans-serif" role="img" aria-label="חתך של טבלה ממולאת בתבנית בארבעה שלבים: קליפה, מילוי עד 1-1.5 מילימטר מהשפה, סגירה, והטבלה ההפוכה אחרי ההוצאה">
+  <rect x="0" y="0" width="720" height="460" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+  <text x="360" y="32" font-size="20" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">טבלה ממולאת: חתך בארבעה שלבים</text>
+
+  <!-- Step 1 (rightmost) shell -->
+  <g>
+    <text x="610" y="70" font-size="15" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">1. קליפה</text>
+    <path d="M540 90 L540 170 L680 170 L680 90" fill="none" stroke="#1f4e79" stroke-width="5"/>
+    <path d="M545 92 L545 165 L675 165 L675 92 L667 92 L667 157 L553 157 L553 92 Z" fill="#5a3214"/>
+    <g font-size="12" fill="#222222" text-anchor="middle" direction="rtl">
+      <text x="610" y="196">ממלאים, מקישים, הופכים</text>
+      <text x="610" y="212">ומנקזים כ־5 דקות</text>
+      <text x="610" y="228">קליפה 2-3 מ"מ</text>
+    </g>
+  </g>
+
+  <!-- Step 2 filling -->
+  <g>
+    <text x="430" y="70" font-size="15" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">2. מילוי</text>
+    <path d="M360 90 L360 170 L500 170 L500 90" fill="none" stroke="#1f4e79" stroke-width="5"/>
+    <path d="M365 92 L365 165 L495 165 L495 92 L487 92 L487 157 L373 157 L373 92 Z" fill="#5a3214"/>
+    <rect x="373" y="102" width="114" height="55" fill="#d9a066"/>
+    <line x1="373" y1="92" x2="487" y2="92" stroke="#8a3b12" stroke-width="1.5" stroke-dasharray="3 3"/>
+    <g font-size="12" fill="#222222" text-anchor="middle" direction="rtl">
+      <text x="430" y="196">מילוי עד 28°C לכל היותר</text>
+      <text x="430" y="212">משאירים 1-1.5 מ"מ מהשפה</text>
+      <text x="430" y="228">שפה נקייה בלי מילוי</text>
+    </g>
+  </g>
+
+  <!-- Step 3 closing -->
+  <g>
+    <text x="250" y="70" font-size="15" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">3. סגירה</text>
+    <path d="M180 90 L180 170 L320 170 L320 90" fill="none" stroke="#1f4e79" stroke-width="5"/>
+    <path d="M185 92 L185 165 L315 165 L315 92 L307 92 L307 157 L193 157 L193 92 Z" fill="#5a3214"/>
+    <rect x="193" y="102" width="114" height="55" fill="#d9a066"/>
+    <rect x="185" y="88" width="130" height="14" fill="#5a3214"/>
+    <line x1="172" y1="84" x2="328" y2="84" stroke="#555555" stroke-width="3"/>
+    <g font-size="12" fill="#222222" text-anchor="middle" direction="rtl">
+      <text x="250" y="196">המילוי התייצב; מחממים את</text>
+      <text x="250" y="212">השפה שניות ספורות, יוצקים</text>
+      <text x="250" y="228">שוקולד מטומפר ומגרדים</text>
+    </g>
+  </g>
+
+  <!-- Step 4 released bar -->
+  <g>
+    <text x="80" y="70" font-size="15" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">4. הוצאה</text>
+    <path d="M20 110 L140 110 L140 160 L20 160 Z" fill="#5a3214"/>
+    <rect x="28" y="118" width="104" height="34" fill="#d9a066"/>
+    <line x1="22" y1="112" x2="138" y2="112" stroke="#ffffff" stroke-width="3"/>
+    <g font-size="12" fill="#222222" text-anchor="middle" direction="rtl">
+      <text x="80" y="196">הופכים: צד התבנית</text>
+      <text x="80" y="212">למעלה ומבריק,</text>
+      <text x="80" y="228">הסגירה למטה</text>
+    </g>
+  </g>
+
+  <!-- arrows between steps (RTL flow) -->
+  <g stroke="#222222" stroke-width="2" fill="#222222">
+    <line x1="532" y1="130" x2="510" y2="130"/><polygon points="510,124 510,136 502,130"/>
+    <line x1="352" y1="130" x2="330" y2="130"/><polygon points="330,124 330,136 322,130"/>
+    <line x1="172" y1="130" x2="152" y2="130"/><polygon points="152,124 152,136 144,130"/>
+  </g>
+
+  <!-- legend -->
+  <g font-size="13" fill="#111111" direction="rtl" text-anchor="end">
+    <rect x="652" y="262" width="22" height="16" fill="#5a3214"/>
+    <text x="644" y="275">שוקולד מטומפר</text>
+    <rect x="652" y="290" width="22" height="16" fill="#d9a066"/>
+    <text x="644" y="303">מילוי (פרלינה, טחינה וחלבה)</text>
+    <line x1="652" y1="326" x2="674" y2="326" stroke="#1f4e79" stroke-width="5"/>
+    <text x="644" y="331">תבנית</text>
+  </g>
+  <g font-size="13" fill="#111111" direction="rtl" text-anchor="end">
+    <text x="690" y="370" font-weight="bold">למה זה חשוב:</text>
+    <text x="690" y="392">מילוי חם מ־28°C ממיס את הקליפה (Callebaut).</text>
+    <text x="690" y="412">מילוי עד השפה או על השפה: הסגירה לא נדבקת והטבלה דולפת.</text>
+    <text x="690" y="432">קליפה דקה מדי נשברת בהוצאה; עבה מדי: הרבה שוקולד ומעט מילוי.</text>
+  </g>
+</svg>

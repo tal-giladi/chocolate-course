@@ -20,7 +20,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - [x] Research: official Israeli sources (`curriculum/research/sources.md`)
 - [x] References: `references/where-to-buy.md`, `references/kashrut-guide.md`
 - [x] Module 3 — טמפרור (pilot)
-- [ ] Module 1 — המטבח של השוקולד
+- [x] Module 1 — המטבח של השוקולד
 - [x] Module 2 — המסה וטיבול בלי טמפרור
 - [ ] Module 4 — טבלאות ותבניות
 - [ ] Module 5 — בונבונים
@@ -44,7 +44,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 
 ## Agents now
 
-- Module writers: module 1, module 4
+- Module writers: module 4, module 5
 
 ## Decisions and open questions
 
@@ -63,3 +63,4 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
   no vegan "milk" chocolate found in Israel (12.2 makes it at home); Cacao Barry and Belcolade ARE available.
 - Final QA: add marble/granite slab and room thermometer-hygrometer to where-to-buy (כלים); re-check Mycryo stock/kashrut; optional tempering-log columns (seed grams, minutes on slab).
 - Final QA: turn 02.1/02.2 plain mentions of 01.1/01.4 into links; where-to-buy lacks nuts & dried fruit, silicone ice-cube trays, disposable spoons.
+- Final QA: where-to-buy add silicone spatula, airtight boxes; templates/tasting-sheet.md (01.5 inline table); split מכיל/עלול להכיל in recipe-card; add Oct 2026 Pobeda recall to kashrut guide; cross-links listed in curriculum/matrix/module-01.md; 01.4 cites FDA/FARE (gov.il 403) — swap to MoH if reachable.

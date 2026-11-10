@@ -3,6 +3,15 @@
 - [איפה קונים: כלים, אריזות וחומרי גלם](references/where-to-buy.md)
 - [מדריך כשרות לחומרי גלם](references/kashrut-guide.md)
 - [תבניות](templates/README.md)
+
+- חלק א — יסודות
+- **Module 1 — המטבח של השוקולד**
+  - [01 · מה זה שוקולד: קוברטורה, ציפוי, אחוזי קקאו ושוקולד רובי](lessons/module-01/lesson-01.md)
+  - [02 · ערכת ציוד ראשונה ואיפה קונים בישראל](lessons/module-01/lesson-02.md)
+  - [03 · כשרות בשוקולד: איך קוראים הכשר על האריזה](lessons/module-01/lesson-03.md)
+  - [04 · בטיחות מזון והיגיינה במטבח הביתי](lessons/module-01/lesson-04.md)
+  - [05 · טעימה כמו מקצוען: ברק, סנאפ, מרקם וארומה](lessons/module-01/lesson-05.md)
+  - [מבחן מודול 1](assessments/module-01-quiz.md)
 - **Module 2 — המסה וטיבול בלי טמפרור**
   - [06 · להמיס נכון: מיקרוגל, בן־מארי ולמה שוקולד נתפס](lessons/module-02/lesson-01.md)
   - [07 · תותים ופירות מטובלים](lessons/module-02/lesson-02.md)
