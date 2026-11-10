@@ -31,7 +31,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - [x] Module 10 — לוח השנה היהודי והישראלי
 - [x] Module 11 — אריזה ומתנה
 - [x] Module 12 — טבעוני ופרווה
-- [ ] Module 13 — בריא יותר
+- [x] Module 13 — בריא יותר
 - [ ] Module 14 — אלרגיות ורגישויות
 - [ ] Module 15 — לפני שפותחים
 - [ ] Module 16 — בטיחות מזון ורישוי
@@ -44,7 +44,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 
 ## Agents now
 
-- Module writers: module 13, module 14
+- Module writers: module 14, module 15
 
 ## Decisions and open questions
 

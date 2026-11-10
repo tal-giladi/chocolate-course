@@ -85,3 +85,10 @@
   - [51 · מילויים טבעוניים](lessons/module-12/lesson-04.md)
   - [52 · סוכריות, צבעים וברק: מה לא טבעוני](lessons/module-12/lesson-05.md)
   - [מבחן מודול 12](assessments/module-12-quiz.md)
+- **Module 13 — בריא יותר**
+  - [53 · מה באמת "בריא יותר" בשוקולד](lessons/module-13/lesson-01.md)
+  - [54 · ממתיקים: מלטיטול, אריתריטול, אלולוזה וסטיביה](lessons/module-13/lesson-02.md)
+  - [55 · שוקולד גולמי וממותק בתמרים](lessons/module-13/lesson-03.md)
+  - [56 · חטיפי שוקולד עם אגוזים, זרעים ופירות](lessons/module-13/lesson-04.md)
+  - [57 · טענות בריאות: מה אסור לכתוב על האריזה](lessons/module-13/lesson-05.md)
+  - [מבחן מודול 13](assessments/module-13-quiz.md)
