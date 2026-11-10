@@ -34,7 +34,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - [x] Module 13 — בריא יותר
 - [x] Module 14 — אלרגיות ורגישויות
 - [x] Module 15 — לפני שפותחים
-- [ ] Module 16 — בטיחות מזון ורישוי
+- [x] Module 16 — בטיחות מזון ורישוי
 - [ ] Module 17 — כשרות לעסק
 - [ ] Module 18 — מוצר, תווית וחיי מדף
 - [ ] Module 19 — מספרים
@@ -44,7 +44,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 
 ## Agents now
 
-- Module writers: module 16, module 17
+- Module writers: module 17, module 18
 
 ## Decisions and open questions
 

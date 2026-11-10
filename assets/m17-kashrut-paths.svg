@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="760" height="520" role="img" aria-labelledby="t d" font-family="Arial, 'Noto Sans Hebrew', sans-serif">
+  <title id="t">שלוש דרכים לעסק שוקולד ביתי בעניין כשרות</title>
+  <desc id="d">תרשים החלטה: האם רוצים לכתוב "כשר" על המוצר. כן: תעודת הכשר מהרב המקומי דרך המועצה הדתית, ואפשר להוסיף הכשר פרטי. לא, אבל רוצים לתאר: תיאור אמת של חומרי הגלם והסטנדרטים בלי המילה כשר ובלי סמל. לא: בלי שום טענת כשרות, רק רכיבים ואלרגנים. מידע כללי, מצב נכון ל־10.11.2026.</desc>
+  <rect x="0" y="0" width="760" height="520" fill="#ffffff"/>
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#222222"/>
+    </marker>
+  </defs>
+  <g fill="none" stroke="#222222" stroke-width="2">
+    <rect x="230" y="20" width="300" height="70" rx="10" fill="#f3efe6"/>
+    <rect x="510" y="170" width="230" height="150" rx="10" fill="#e6f0e6"/>
+    <rect x="265" y="170" width="230" height="150" rx="10" fill="#fdf3dc"/>
+    <rect x="20" y="170" width="230" height="150" rx="10" fill="#eeeeee"/>
+    <rect x="510" y="360" width="230" height="110" rx="10" fill="#ffffff" stroke-dasharray="6 4"/>
+    <path d="M440 90 L620 165" marker-end="url(#ar)"/>
+    <path d="M380 90 L380 165" marker-end="url(#ar)"/>
+    <path d="M320 90 L140 165" marker-end="url(#ar)"/>
+    <path d="M625 320 L625 355" marker-end="url(#ar)"/>
+  </g>
+  <g fill="#111111" font-size="17" text-anchor="middle" direction="rtl">
+    <text x="380" y="50" font-weight="bold">רוצים לכתוב "כשר" על המוצר?</text>
+    <text x="380" y="75" font-size="14">לא מחליטים לפי חומרי הגלם, אלא לפי תעודה</text>
+    <text x="560" y="130" font-size="15">כן</text>
+    <text x="400" y="135" font-size="15">לא, אבל רוצים לתאר</text>
+    <text x="205" y="130" font-size="15">לא</text>
+    <text x="625" y="198" font-weight="bold">א. תעודת הכשר</text>
+    <text x="625" y="225" font-size="14">הרב המקומי, דרך המועצה הדתית</text>
+    <text x="625" y="248" font-size="14">תקן, משגיח, אגרה, חידוש שנתי</text>
+    <text x="625" y="271" font-size="14">מותר: "כשר" לפי מה שבתעודה</text>
+    <text x="625" y="294" font-size="14">(חלבי / פרווה / חלב ישראל)</text>
+    <text x="380" y="198" font-weight="bold">ב. תיאור אמת בלי "כשר"</text>
+    <text x="380" y="225" font-size="14">עובדות על חומרי הגלם והעבודה</text>
+    <text x="380" y="248" font-size="14">בלי המילה "כשר" ובלי סמל</text>
+    <text x="380" y="271" font-size="14">פסיקת גיני (2017)</text>
+    <text x="380" y="294" font-size="14">נוסח: לבדוק עם עו"ד</text>
+    <text x="135" y="198" font-weight="bold">ג. בלי טענת כשרות</text>
+    <text x="135" y="225" font-size="14">רכיבים ואלרגנים בלבד</text>
+    <text x="135" y="248" font-size="14">עונים בכנות כשלקוח שואל</text>
+    <text x="135" y="271" font-size="14">מתאים למי שלא מוכר</text>
+    <text x="135" y="294" font-size="14">לקהל שומר כשרות</text>
+    <text x="625" y="390" font-weight="bold">אפשר להוסיף: הכשר פרטי</text>
+    <text x="625" y="415" font-size="14">בד"ץ או גוף אחר, בנוסף לתעודה</text>
+    <text x="625" y="438" font-size="14">תנאים ועלות: שואלים אותם</text>
+    <text x="380" y="500" font-size="13">מידע כללי, לא ייעוץ משפטי ולא פסק הלכה. מצב החוק נבדק ב־10.11.2026.</text>
+  </g>
+</svg>

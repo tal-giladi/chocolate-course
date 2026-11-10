@@ -104,3 +104,10 @@
   - [62 · מחקר שוק: מתחרים, מחירים ועונתיות](lessons/module-15/lesson-02.md)
   - [63 · בחירת נישה](lessons/module-15/lesson-03.md)
   - [מבחן מודול 15](assessments/module-15-quiz.md)
+- **Module 16 — בטיחות מזון ורישוי**
+  - [64 · בטיחות מזון למכירה](lessons/module-16/lesson-01.md)
+  - [65 · אלרגנים במכירה](lessons/module-16/lesson-02.md)
+  - [66 · אחסון, קירור והובלה](lessons/module-16/lesson-03.md)
+  - [67 · מה החוק דורש מהמזון](lessons/module-16/lesson-04.md)
+  - [68 · רישוי העסק: מה לשאול ואת מי](lessons/module-16/lesson-05.md)
+  - [מבחן מודול 16](assessments/module-16-quiz.md)
