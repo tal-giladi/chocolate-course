@@ -123,3 +123,9 @@
   - [75 · עיצוב מארז, מיתוג ותוויות](lessons/module-18/lesson-03.md)
   - [76 · צילום מוצר לחנות](lessons/module-18/lesson-04.md)
   - [מבחן מודול 18](assessments/module-18-quiz.md)
+- **Module 19 — מספרים**
+  - [77 · תמחור מוצר](lessons/module-19/lesson-01.md)
+  - [78 · מחיר מכירה, מרווח ומחיר לחברות](lessons/module-19/lesson-02.md)
+  - [79 · תכנון ייצור לעונה](lessons/module-19/lesson-03.md)
+  - [80 · גיליון תמחור מלא](lessons/module-19/lesson-04.md)
+  - [מבחן מודול 19](assessments/module-19-quiz.md)
