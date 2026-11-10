@@ -36,7 +36,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - [x] Module 15 — לפני שפותחים
 - [x] Module 16 — בטיחות מזון ורישוי
 - [x] Module 17 — כשרות לעסק
-- [ ] Module 18 — מוצר, תווית וחיי מדף
+- [x] Module 18 — מוצר, תווית וחיי מדף
 - [ ] Module 19 — מספרים
 - [ ] Module 20 — חנות אונליין ומשלוחים
 - [ ] Module 21 — שיווק והשקה
@@ -44,7 +44,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 
 ## Agents now
 
-- Module writers: module 18, module 19
+- Module writers: module 19, module 20
 
 ## Decisions and open questions
 

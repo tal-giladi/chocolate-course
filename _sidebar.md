@@ -117,3 +117,9 @@
   - [71 · חלבי, פרווה וציוד חלבי על התווית](lessons/module-17/lesson-03.md)
   - [72 · מה אסור לכתוב בלי תעודה](lessons/module-17/lesson-04.md)
   - [מבחן מודול 17](assessments/module-17-quiz.md)
+- **Module 18 — מוצר, תווית וחיי מדף**
+  - [73 · סימון מזון בישראל](lessons/module-18/lesson-01.md)
+  - [74 · מבחני חיי מדף ואחסון](lessons/module-18/lesson-02.md)
+  - [75 · עיצוב מארז, מיתוג ותוויות](lessons/module-18/lesson-03.md)
+  - [76 · צילום מוצר לחנות](lessons/module-18/lesson-04.md)
+  - [מבחן מודול 18](assessments/module-18-quiz.md)

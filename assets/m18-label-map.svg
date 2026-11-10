@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 520" width="820" height="520" font-family="Arial, 'Noto Sans Hebrew', sans-serif" role="img" aria-label="מפת התווית של מארז סביבונים: חזית וגב">
+  <rect x="0" y="0" width="820" height="520" fill="#ffffff"/>
+  <text x="410" y="34" text-anchor="middle" direction="rtl" font-size="22" font-weight="bold" fill="#1a1a1a">מפת התווית: מארז 5 סביבונים, 100 גרם</text>
+
+  <!-- Front panel -->
+  <text x="610" y="74" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#1a1a1a">חזית (מכסה 20×5 ס"מ = 100 סמ"ר)</text>
+  <rect x="420" y="88" width="380" height="190" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="780" y="124" text-anchor="end" direction="rtl" font-size="18" font-weight="bold" fill="#1a1a1a">סביבוני שוקולד בעבודת יד</text>
+  <text x="780" y="150" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">חלב, מריר ולבן · מארז 5</text>
+  <text x="780" y="180" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">משקל נטו: 95 גרם</text>
+  <text x="780" y="200" text-anchor="end" direction="rtl" font-size="12" fill="#444444">(שם ומשקל באותו שדה ראייה)</text>
+  <circle cx="490" cy="220" r="34" fill="#e2231a" stroke="#1a1a1a" stroke-width="1.5"/>
+  <text x="490" y="216" text-anchor="middle" direction="rtl" font-size="11" font-weight="bold" fill="#ffffff">סמל</text>
+  <text x="490" y="231" text-anchor="middle" direction="rtl" font-size="11" font-weight="bold" fill="#ffffff">סוכר</text>
+  <circle cx="570" cy="220" r="34" fill="#e2231a" stroke="#1a1a1a" stroke-width="1.5"/>
+  <text x="570" y="216" text-anchor="middle" direction="rtl" font-size="11" font-weight="bold" fill="#ffffff">סמל</text>
+  <text x="570" y="231" text-anchor="middle" direction="rtl" font-size="11" font-weight="bold" fill="#ffffff">שומן רווי</text>
+  <text x="530" y="270" text-anchor="middle" direction="rtl" font-size="12" fill="#1a1a1a">2 סמלים רשמיים, קוטר 20 מ"מ לפחות</text>
+
+  <!-- Back panel -->
+  <text x="210" y="74" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#1a1a1a">גב או תחתית</text>
+  <rect x="20" y="88" width="380" height="410" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="385" y="116" text-anchor="end" direction="rtl" font-size="14" font-weight="bold" fill="#1a1a1a">1. רכיבים, בסדר יורד, עם אחוזים</text>
+  <text x="385" y="136" text-anchor="end" direction="rtl" font-size="12" fill="#1a1a1a">שוקולד חלב 40% (… אבקת חלב … לתת שעורה)</text>
+  <text x="385" y="154" text-anchor="end" direction="rtl" font-size="12" fill="#1a1a1a">שוקולד מריר 35% (…), שוקולד לבן 25% (…)</text>
+  <text x="385" y="180" text-anchor="end" direction="rtl" font-size="14" font-weight="bold" fill="#1a1a1a">2. אלרגנים מודגשים בתוך הרשימה</text>
+  <text x="385" y="200" text-anchor="end" direction="rtl" font-size="12" fill="#1a1a1a">עלול להכיל: סויה, אגוזים, בוטנים</text>
+  <rect x="40" y="214" width="345" height="150" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.5"/>
+  <text x="375" y="236" text-anchor="end" direction="rtl" font-size="14" font-weight="bold" fill="#1a1a1a">3. סימון תזונתי ל־100 גרם (בעברית, במסגרת)</text>
+  <text x="375" y="258" text-anchor="end" direction="rtl" font-size="12" font-weight="bold" fill="#1a1a1a">אנרגיה (קלוריות) 583</text>
+  <text x="375" y="276" text-anchor="end" direction="rtl" font-size="12" fill="#1a1a1a">שומנים 41.4 ג' · מתוכם רווי 25 ג' · טראנס · כולסטרול</text>
+  <text x="375" y="294" text-anchor="end" direction="rtl" font-size="12" font-weight="bold" fill="#1a1a1a">נתרן 37 מ"ג</text>
+  <text x="375" y="312" text-anchor="end" direction="rtl" font-size="12" fill="#1a1a1a">פחמימות 42.7 ג' · סוכרים 40.9 ג'</text>
+  <text x="375" y="330" text-anchor="end" direction="rtl" font-size="12" font-weight="bold" fill="#1a1a1a">כפיות סוכר: כ־10</text>
+  <text x="375" y="350" text-anchor="end" direction="rtl" font-size="12" fill="#1a1a1a">רב־כהלים · חלבונים 7.7 ג'</text>
+  <text x="385" y="392" text-anchor="end" direction="rtl" font-size="14" font-weight="bold" fill="#1a1a1a">4. מומלץ לשימוש עד 24.01.2027</text>
+  <text x="385" y="414" text-anchor="end" direction="rtl" font-size="14" font-weight="bold" fill="#1a1a1a">5. אחסון: 12-18°C, יבש, לא במקרר</text>
+  <text x="385" y="436" text-anchor="end" direction="rtl" font-size="14" font-weight="bold" fill="#1a1a1a">6. יצרן: שם, כתובת, טלפון</text>
+  <text x="385" y="458" text-anchor="end" direction="rtl" font-size="14" font-weight="bold" fill="#1a1a1a">7. אצווה: 261125-S</text>
+  <text x="385" y="482" text-anchor="end" direction="rtl" font-size="12" fill="#444444">כשרות: רק עם תעודה בתוקף</text>
+
+  <!-- Legend -->
+  <text x="610" y="320" text-anchor="middle" direction="rtl" font-size="14" font-weight="bold" fill="#1a1a1a">מה בודקים לפני הדפסה</text>
+  <text x="790" y="348" text-anchor="end" direction="rtl" font-size="13" fill="#1a1a1a">• כל רכיב מהמפרט של השקית הנוכחית</text>
+  <text x="790" y="372" text-anchor="end" direction="rtl" font-size="13" fill="#1a1a1a">• שלושה ספים: 10 ג' סוכר, 4 ג' רווי, 400 מ"ג נתרן</text>
+  <text x="790" y="396" text-anchor="end" direction="rtl" font-size="13" fill="#1a1a1a">• חזית עד 25 סמ"ר: בלי סמלים, עם טבלה</text>
+  <text x="790" y="420" text-anchor="end" direction="rtl" font-size="13" fill="#1a1a1a">• אות: x-height 1.2 מ"מ (0.9 מתחת ל־80 סמ"ר)</text>
+  <text x="790" y="444" text-anchor="end" direction="rtl" font-size="13" fill="#1a1a1a">• אין "כשר", "בריא" או "ללא" בלי כיסוי</text>
+  <text x="790" y="478" text-anchor="end" direction="rtl" font-size="11" fill="#444444">מידע כללי, נכון ל־10.11.2026. לא ייעוץ משפטי.</text>
+</svg>
