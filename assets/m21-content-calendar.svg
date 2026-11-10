@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" font-family="Arial, Helvetica, sans-serif" role="img" aria-label="לוח תוכן לשמונה השבועות שלפני חג: פניות לחברות משבוע 8 עד 5, יום צילום בשבועות 7-6, רילס תהליך פעם בשבוע משבוע 5 עד 1, פוסטים של מחיר, אלרגנים ומשלוח משבוע 4 עד 1, סגירת הזמנות בשבוע 1, ואחרי החג בקשת ביקורות ופנייה ללקוחות חוזרים">
+  <rect x="0" y="0" width="800" height="500" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+  <text x="400" y="34" font-size="20" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">לוח תוכן: 8 שבועות לפני החג</text>
+  <text x="400" y="58" font-size="13" fill="#333333" text-anchor="middle" direction="rtl">הזמן זורם מימין לשמאל. רצועה בהירה: הכנה. רצועה כהה: פרסום. מעוין: מועד סגירת הזמנות</text>
+
+  <!-- grid: x = 130 + weeks * 68.75 -->
+  <g stroke="#bbbbbb" stroke-width="1" stroke-dasharray="4 4">
+    <line x1="680" y1="80" x2="680" y2="430"/>
+    <line x1="542.5" y1="80" x2="542.5" y2="430"/>
+    <line x1="405" y1="80" x2="405" y2="430"/>
+    <line x1="267.5" y1="80" x2="267.5" y2="430"/>
+    <line x1="198.75" y1="80" x2="198.75" y2="430"/>
+  </g>
+  <line x1="130" y1="80" x2="130" y2="430" stroke="#8a1f11" stroke-width="3"/>
+
+  <!-- row labels -->
+  <g font-size="14" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">
+    <text x="740" y="118">פניות לחברות</text>
+    <text x="740" y="173">יום צילום</text>
+    <text x="740" y="228">רילס תהליך</text>
+    <text x="740" y="283">מחיר, אלרגנים</text>
+    <text x="740" y="338">סגירת הזמנות</text>
+    <text x="740" y="393">ביקורות</text>
+  </g>
+
+  <g stroke="#3b2210" stroke-width="1.5">
+    <!-- corporate: weeks 8-5 -->
+    <rect x="473.75" y="104" width="206.25" height="20" fill="#f3dfc6"/>
+    <!-- photo day: weeks 7-6 -->
+    <rect x="542.5" y="159" width="68.75" height="20" fill="#7a4a24"/>
+    <!-- reels: one per week, weeks 5-1 -->
+    <rect x="450" y="214" width="20" height="20" fill="#3b2210"/>
+    <rect x="381" y="214" width="20" height="20" fill="#3b2210"/>
+    <rect x="312" y="214" width="20" height="20" fill="#3b2210"/>
+    <rect x="243" y="214" width="20" height="20" fill="#3b2210"/>
+    <rect x="174" y="214" width="20" height="20" fill="#3b2210"/>
+    <!-- price / allergens posts: weeks 4-1 -->
+    <rect x="198.75" y="269" width="206.25" height="20" fill="#7a4a24"/>
+    <!-- after holiday: reviews -->
+    <rect x="40" y="379" width="90" height="20" fill="#f3dfc6"/>
+  </g>
+  <!-- cut-off diamond at week 1 -->
+  <polygon points="198.75,314 214,328 198.75,342 183.5,328" fill="#8a1f11" stroke="#3b2210" stroke-width="1.5"/>
+
+  <!-- notes -->
+  <g font-size="12" fill="#222222" text-anchor="middle" direction="rtl">
+    <text x="577" y="140">הצעת מחיר ומארז לדוגמה</text>
+    <text x="577" y="195">אור חלון, רקע לבן (18.4)</text>
+    <text x="320" y="250">רילס אחד בשבוע</text>
+    <text x="302" y="305">מחיר כולל, מועד אחרון</text>
+    <text x="270" y="345">לפי הקיבולת (19.3)</text>
+    <text x="85" y="415">אחרי החג</text>
+  </g>
+
+  <!-- axis -->
+  <g font-size="13" fill="#111111" text-anchor="middle" direction="rtl">
+    <text x="680" y="452">8 שבועות</text>
+    <text x="542.5" y="452">6</text>
+    <text x="405" y="452">4</text>
+    <text x="267.5" y="452">2</text>
+    <text x="198.75" y="452">1</text>
+    <text x="130" y="452" font-weight="bold" fill="#8a1f11">החג</text>
+  </g>
+  <text x="400" y="482" font-size="12" fill="#333333" text-anchor="middle" direction="rtl">הצעה של הקורס, לא כלל של הפלטפורמות. התאריכים לכל חג: טבלת החגים ב־10.1</text>
+</svg>
