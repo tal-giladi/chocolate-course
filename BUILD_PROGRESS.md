@@ -23,7 +23,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - [x] Module 1 — המטבח של השוקולד
 - [x] Module 2 — המסה וטיבול בלי טמפרור
 - [x] Module 4 — טבלאות ותבניות
-- [ ] Module 5 — בונבונים
+- [x] Module 5 — בונבונים
 - [ ] Module 6 — גנאש וטראפלס
 - [ ] Module 7 — מילויים
 - [ ] Module 8 — צורות תלת־ממד
@@ -44,7 +44,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 
 ## Agents now
 
-- Module writers: module 5, module 6
+- Module writers: module 6, module 7
 
 ## Decisions and open questions
 

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" font-family="Arial, Helvetica, sans-serif" role="img" aria-label="גנאש תקין מול גנאש שנפרד: בגנאש תקין טיפות שומן קטנות מפוזרות בסירופ של מים וסוכר עם חלקיקי קקאו; בגנאש שנפרד השומן מתאחד לשכבה שמנונית ונשאר גוש גרגרי; מתקנים בכפית נוזל חם ובערבוב או בלנדר">
+  <rect x="0" y="0" width="720" height="400" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+  <text x="360" y="34" font-size="20" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">מה קורה בתוך גנאש</text>
+
+  <!-- right panel: good emulsion -->
+  <text x="595" y="70" font-size="16" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">גנאש תקין (חם)</text>
+  <circle cx="595" cy="175" r="88" fill="#f4e6d4" stroke="#222222" stroke-width="2"/>
+  <g fill="#8a5a12" stroke="#4a2f08" stroke-width="1">
+    <circle cx="560" cy="130" r="7"/><circle cx="590" cy="120" r="6"/><circle cx="625" cy="135" r="7"/>
+    <circle cx="545" cy="165" r="6"/><circle cx="580" cy="160" r="7"/><circle cx="615" cy="168" r="6"/><circle cx="648" cy="160" r="6"/>
+    <circle cx="555" cy="200" r="7"/><circle cx="592" cy="198" r="6"/><circle cx="630" cy="205" r="7"/>
+    <circle cx="570" cy="232" r="6"/><circle cx="610" cy="235" r="6"/>
+  </g>
+  <g fill="#2b1a0a">
+    <rect x="572" y="142" width="4" height="4"/><rect x="603" y="147" width="4" height="4"/><rect x="562" y="183" width="4" height="4"/>
+    <rect x="610" y="186" width="4" height="4"/><rect x="638" y="185" width="4" height="4"/><rect x="590" y="218" width="4" height="4"/>
+  </g>
+  <text x="595" y="290" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">טיפות שומן קטנות (חמאת קקאו ושומן חלב)</text>
+  <text x="595" y="308" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">מפוזרות בסירופ של מים וסוכר,</text>
+  <text x="595" y="326" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">עם חלקיקי קקאו. חלק ומבריק.</text>
+
+  <!-- arrow right to middle -->
+  <line x1="490" y1="175" x2="440" y2="175" stroke="#8a3b12" stroke-width="2.5"/>
+  <polygon points="440,168 426,175 440,182" fill="#8a3b12"/>
+  <text x="458" y="160" font-size="12" fill="#8a3b12" text-anchor="middle" direction="rtl">חום יתר,</text>
+  <text x="458" y="200" font-size="12" fill="#8a3b12" text-anchor="middle" direction="rtl">מעט נוזל,</text>
+  <text x="458" y="216" font-size="12" fill="#8a3b12" text-anchor="middle" direction="rtl">שמנת קרה</text>
+
+  <!-- middle panel: split -->
+  <text x="330" y="70" font-size="16" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">גנאש שנפרד</text>
+  <circle cx="330" cy="175" r="88" fill="#f4e6d4" stroke="#222222" stroke-width="2"/>
+  <path d="M 249 140 A 88 88 0 0 1 411 140 Z" fill="#c98f2e" stroke="#4a2f08" stroke-width="1.5"/>
+  <text x="330" y="125" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">שומן צף</text>
+  <g fill="#2b1a0a">
+    <rect x="290" y="170" width="9" height="8"/><rect x="310" y="185" width="10" height="9"/><rect x="335" y="168" width="9" height="9"/>
+    <rect x="355" y="190" width="10" height="8"/><rect x="300" y="212" width="9" height="9"/><rect x="330" y="225" width="10" height="9"/>
+    <rect x="365" y="215" width="9" height="9"/><rect x="280" y="195" width="8" height="8"/>
+  </g>
+  <text x="330" y="290" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">הטיפות התאחדו לשכבת שמן,</text>
+  <text x="330" y="308" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">והמוצקים נצמדו לגושים.</text>
+  <text x="330" y="326" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">שמנוני, גרגרי, עמום.</text>
+
+  <!-- arrow middle to left -->
+  <line x1="225" y1="175" x2="175" y2="175" stroke="#2f5d23" stroke-width="2.5"/>
+  <polygon points="175,168 161,175 175,182" fill="#2f5d23"/>
+
+  <!-- left panel: fix -->
+  <text x="95" y="70" font-size="16" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">התיקון</text>
+  <rect x="20" y="95" width="150" height="160" rx="10" fill="#e6f0e0" stroke="#2f5d23" stroke-width="2"/>
+  <text x="95" y="125" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">1. מביאים ל־35-40°C</text>
+  <text x="95" y="155" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">2. כפית מים או</text>
+  <text x="95" y="173" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">חלב פושרים (32-35°C)</text>
+  <text x="95" y="203" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">3. מערבבים מהמרכז</text>
+  <text x="95" y="221" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">או בבלנדר מוט</text>
+  <text x="95" y="290" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">חוזרים על כפית</text>
+  <text x="95" y="308" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">עד שהגנאש מבריק</text>
+
+  <text x="360" y="372" font-size="12" fill="#444444" text-anchor="middle" direction="rtl">מבוסס על Saglio ואחרים 2018 (גנאש חם הוא אמולסיה של שמן במים), King Arthur Baking 2024 ו־Valrhona (ערבוב לא מתחת ל־35°C)</text>
+</svg>

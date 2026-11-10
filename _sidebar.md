@@ -33,3 +33,10 @@
   - [17 · דפי טרנספר ודפי גיטרה](lessons/module-04/lesson-03.md)
   - [18 · לוליפופ שוקולד ומטבעות](lessons/module-04/lesson-04.md)
   - [מבחן מודול 4](assessments/module-04-quiz.md)
+- **Module 5 — בונבונים**
+  - [19 · יציקת קליפה: יציקה, ריקון וניקוי](lessons/module-05/lesson-01.md)
+  - [20 · מילוי וסגירה](lessons/module-05/lesson-02.md)
+  - [21 · צביעה בחמאת קקאו צבעונית](lessons/module-05/lesson-03.md)
+  - [22 · אבקות ברק: מה מאכיל ומה לקישוט בלבד](lessons/module-05/lesson-04.md)
+  - [23 · תקלות בבונבונים: לא יוצא, סדקים ודליפות](lessons/module-05/lesson-05.md)
+  - [מבחן מודול 5](assessments/module-05-quiz.md)
