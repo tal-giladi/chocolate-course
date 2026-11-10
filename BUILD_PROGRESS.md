@@ -17,7 +17,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 ## Units
 
 - [x] Repo, plan in `curriculum/plan.md`, build spec, manifest, tools, templates, README, course-details
-- [ ] Research: official Israeli sources (`curriculum/research/sources.md`)
+- [x] Research: official Israeli sources (`curriculum/research/sources.md`)
 - [ ] References: `references/where-to-buy.md`, `references/kashrut-guide.md`
 - [ ] Module 3 — טמפרור (pilot)
 - [ ] Module 1 — המטבח של השוקולד
@@ -44,7 +44,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 
 ## Agents now
 
-- Research agent: official sources → `curriculum/research/sources.md`
+- Module writer: module 3 (pilot)
 - Research agent: shops and kashrut → `references/where-to-buy.md`, `references/kashrut-guide.md`
 
 ## Decisions and open questions
@@ -55,3 +55,8 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - RTL: the Academy is LTR-only today (`src/i18n/config.ts` has only `en: "ltr"`; lesson HTML allows a
   `dir` attribute but the layout sets `dir="ltr"`). Content is written anyway; Academy fix is for Tal.
 - Modules are added to `_sidebar.md` only when finished, so check-course stays at 0 problems.
+- Research corrections to the plan (sources.md): kashrut-description ruling is 2017 (דנג"ץ 5026/16), not 2018;
+  no 2019 parve-chocolate recall found — use Feb 2025 (De Carina pralines) and Oct 2026 (Pobeda) recalls;
+  SI 1145 → EU 1169/2011 rules voluntary since 1.1.2025, mandatory 1.1.2028 (draft) — 18.1 teaches both;
+  polyol warning wording unconfirmed ("פעילות מעיים מוגברת" per press) — lessons say "check current rule".
+  Red labels for solids: sugars 10 g, sat. fat 4 g per 100 g → chocolate gets two red labels; front ≤25 cm² exempt.
