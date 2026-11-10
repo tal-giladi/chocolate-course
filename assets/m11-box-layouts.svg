@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" font-family="Arial, Helvetica, sans-serif" role="img" aria-label="שלושה מארזים מלמעלה: מארז 5 בשורה אחת עם סביבונים שוכבים, מארז 9 בשלוש שורות של שלושה מילויים, ומארז 16 בארבע שורות של ארבעה סוגים. מתחת לכל מארז: משקל משוער ולמי הוא מתאים">
+  <rect x="0" y="0" width="760" height="420" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+  <text x="380" y="34" font-size="20" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">5, 9, 16: שורה לכל סוג</text>
+
+  <!-- Box of 5 (right) -->
+  <g>
+    <rect x="560" y="70" width="170" height="210" rx="6" fill="#f6efe6" stroke="#222222" stroke-width="2"/>
+    <g fill="#5a3214" stroke="#222222" stroke-width="1.5">
+      <rect x="580" y="84" width="130" height="30" rx="4"/>
+      <rect x="580" y="122" width="130" height="30" rx="4" fill="#7a4a24"/>
+      <rect x="580" y="160" width="130" height="30" rx="4" fill="#efe3c8"/>
+      <rect x="580" y="198" width="130" height="30" rx="4"/>
+      <rect x="580" y="236" width="130" height="30" rx="4" fill="#7a4a24"/>
+    </g>
+    <text x="645" y="104" font-size="12" fill="#ffffff" text-anchor="middle" direction="rtl">חלב</text>
+    <text x="645" y="142" font-size="12" fill="#ffffff" text-anchor="middle" direction="rtl">מריר</text>
+    <text x="645" y="180" font-size="12" fill="#111111" text-anchor="middle" direction="rtl">לבן</text>
+    <text x="645" y="218" font-size="12" fill="#ffffff" text-anchor="middle" direction="rtl">חלב + סוכריות</text>
+    <text x="645" y="256" font-size="12" fill="#ffffff" text-anchor="middle" direction="rtl">מריר + אות</text>
+    <text x="645" y="306" font-size="16" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">מארז 5</text>
+    <text x="645" y="328" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">5 סביבונים שוכבים</text>
+    <text x="645" y="346" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">כ־100-110 גרם</text>
+    <text x="645" y="364" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">מתנה קטנה, משלוח מנות</text>
+  </g>
+
+  <!-- Box of 9 (middle) -->
+  <g>
+    <rect x="300" y="80" width="190" height="190" rx="6" fill="#f6efe6" stroke="#222222" stroke-width="2"/>
+    <g stroke="#222222" stroke-width="1.5">
+      <circle cx="335" cy="115" r="22" fill="#b5651d"/><circle cx="395" cy="115" r="22" fill="#b5651d"/><circle cx="455" cy="115" r="22" fill="#b5651d"/>
+      <circle cx="335" cy="175" r="22" fill="#6b8e23"/><circle cx="395" cy="175" r="22" fill="#6b8e23"/><circle cx="455" cy="175" r="22" fill="#6b8e23"/>
+      <circle cx="335" cy="235" r="22" fill="#a52a5a"/><circle cx="395" cy="235" r="22" fill="#a52a5a"/><circle cx="455" cy="235" r="22" fill="#a52a5a"/>
+    </g>
+    <g font-size="12" fill="#111111" direction="rtl">
+      <text x="296" y="119" text-anchor="end">קרמל</text>
+      <text x="296" y="179" text-anchor="end">פרלינה</text>
+      <text x="296" y="239" text-anchor="end">פירות</text>
+    </g>
+    <text x="395" y="306" font-size="16" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">מארז 9 (3×3)</text>
+    <text x="395" y="328" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">3 מילויים × 3 בונבונים</text>
+    <text x="395" y="346" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">כ־90-130 גרם</text>
+    <text x="395" y="364" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">מתנה לבית, מארח</text>
+  </g>
+
+  <!-- Box of 16 (left) -->
+  <g>
+    <rect x="30" y="70" width="210" height="210" rx="6" fill="#f6efe6" stroke="#222222" stroke-width="2"/>
+    <g stroke="#222222" stroke-width="1.2">
+      <rect x="44" y="84" width="40" height="40" rx="4" fill="#b5651d"/><rect x="94" y="84" width="40" height="40" rx="4" fill="#b5651d"/><rect x="144" y="84" width="40" height="40" rx="4" fill="#b5651d"/><rect x="194" y="84" width="40" height="40" rx="4" fill="#b5651d"/>
+      <rect x="44" y="134" width="40" height="40" rx="4" fill="#5a3214"/><rect x="94" y="134" width="40" height="40" rx="4" fill="#5a3214"/><rect x="144" y="134" width="40" height="40" rx="4" fill="#5a3214"/><rect x="194" y="134" width="40" height="40" rx="4" fill="#5a3214"/>
+      <rect x="44" y="184" width="40" height="40" rx="4" fill="#6b8e23"/><rect x="94" y="184" width="40" height="40" rx="4" fill="#6b8e23"/><rect x="144" y="184" width="40" height="40" rx="4" fill="#6b8e23"/><rect x="194" y="184" width="40" height="40" rx="4" fill="#6b8e23"/>
+      <rect x="44" y="234" width="40" height="40" rx="4" fill="#a52a5a"/><rect x="94" y="234" width="40" height="40" rx="4" fill="#a52a5a"/><rect x="144" y="234" width="40" height="40" rx="4" fill="#a52a5a"/><rect x="194" y="234" width="40" height="40" rx="4" fill="#a52a5a"/>
+    </g>
+    <text x="135" y="306" font-size="16" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">מארז 16 (4×4)</text>
+    <text x="135" y="328" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">4 סוגים × 4</text>
+    <text x="135" y="346" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">כ־160-240 גרם</text>
+    <text x="135" y="364" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">משפחה, אירוע, מתנה גדולה</text>
+  </g>
+
+  <text x="380" y="402" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">כל שורה = סוג אחד, וכרטיס מפתח בתוך המכסה אומר מה בכל שורה. התאריך נקבע לפי הפריט הקצר ביותר.</text>
+</svg>

@@ -63,3 +63,8 @@
   - [37 · זילוף שוקולד ותחרה](lessons/module-09/lesson-02.md)
   - [38 · קישוטים לעוגות וקינוחים](lessons/module-09/lesson-03.md)
   - [מבחן מודול 9](assessments/module-09-quiz.md)
+- **Module 11 — אריזה ומתנה**
+  - [45 · קופסאות, תחתיות וצלופן](lessons/module-11/lesson-01.md)
+  - [46 · עיצוב מארז ועלות לכל מארז](lessons/module-11/lesson-02.md)
+  - [47 · אחסון ומשלוח ביתי של מתנה](lessons/module-11/lesson-03.md)
+  - [מבחן מודול 11](assessments/module-11-quiz.md)
