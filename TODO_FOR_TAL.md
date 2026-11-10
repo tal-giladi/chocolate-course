@@ -1,6 +1,7 @@
 # TODO for Tal
 
-- Course build in progress (started 2026-11-10). See BUILD_PROGRESS.md.
+- Course complete (2026-11-10): ready to import from `tal-giladi/chocolate-course` (main). check-course: 0 problems (87 lessons, 613 questions).
+- 52 human-check items (unverified legal facts, blocked gov.il sources, seasonal prices): `curriculum/qa-report.md`.
 
 ## Before import
 

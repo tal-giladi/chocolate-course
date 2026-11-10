@@ -40,11 +40,11 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - [x] Module 19 — מספרים
 - [x] Module 20 — חנות אונליין ומשלוחים
 - [x] Module 21 — שיווק והשקה
-- [ ] Final QA (check-course 0 problems, link check, TODO_FOR_TAL)
+- [x] Final QA (check-course 0 problems, links 0 broken, TODO_FOR_TAL) — 2026-11-10
 
 ## Agents now
 
-- Final QA agent
+- Course complete (2026-11-10).
 
 ## Decisions and open questions
 
