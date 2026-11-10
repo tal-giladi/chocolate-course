@@ -46,3 +46,9 @@
   - [26 · גנאש בטעמים: חליטות, אלכוהול ותבלינים ישראליים](lessons/module-06/lesson-03.md)
   - [27 · חיי מדף ופעילות מים](lessons/module-06/lesson-04.md)
   - [מבחן מודול 6](assessments/module-06-quiz.md)
+- **Module 7 — מילויים**
+  - [28 · קרמל מלוח](lessons/module-07/lesson-01.md)
+  - [29 · פרלינה וג'יאנדוז'ה ביתיים](lessons/module-07/lesson-02.md)
+  - [30 · מילויי פירות וג'לי](lessons/module-07/lesson-03.md)
+  - [31 · נוגט, מרציפן וחטיף בוטנים וקרמל](lessons/module-07/lesson-04.md)
+  - [מבחן מודול 7](assessments/module-07-quiz.md)
