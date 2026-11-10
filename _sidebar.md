@@ -63,6 +63,14 @@
   - [37 · זילוף שוקולד ותחרה](lessons/module-09/lesson-02.md)
   - [38 · קישוטים לעוגות וקינוחים](lessons/module-09/lesson-03.md)
   - [מבחן מודול 9](assessments/module-09-quiz.md)
+- **Module 10 — לוח השנה היהודי והישראלי**
+  - [39 · חנוכה: סביבונים, מטבעות וחנוכיות שוקולד](lessons/module-10/lesson-01.md)
+  - [40 · ט"ו בשבט: שוקולד עם פירות יבשים ותמרים](lessons/module-10/lesson-02.md)
+  - [41 · פורים: משלוחי מנות](lessons/module-10/lesson-03.md)
+  - [42 · פסח: חומרי גלם כשרים לפסח](lessons/module-10/lesson-04.md)
+  - [43 · ראש השנה: תפוח, דבש ורימונים](lessons/module-10/lesson-05.md)
+  - [44 · אירועים: בר ובת מצווה, חתונות וימי הולדת](lessons/module-10/lesson-06.md)
+  - [מבחן מודול 10](assessments/module-10-quiz.md)
 - **Module 11 — אריזה ומתנה**
   - [45 · קופסאות, תחתיות וצלופן](lessons/module-11/lesson-01.md)
   - [46 · עיצוב מארז ועלות לכל מארז](lessons/module-11/lesson-02.md)
