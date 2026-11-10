@@ -30,7 +30,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - [x] Module 9 — קישוטי שוקולד
 - [x] Module 10 — לוח השנה היהודי והישראלי
 - [x] Module 11 — אריזה ומתנה
-- [ ] Module 12 — טבעוני ופרווה
+- [x] Module 12 — טבעוני ופרווה
 - [ ] Module 13 — בריא יותר
 - [ ] Module 14 — אלרגיות ורגישויות
 - [ ] Module 15 — לפני שפותחים
@@ -44,7 +44,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 
 ## Agents now
 
-- Module writers: module 12, module 13
+- Module writers: module 13, module 14
 
 ## Decisions and open questions
 

@@ -76,3 +76,12 @@
   - [46 · עיצוב מארז ועלות לכל מארז](lessons/module-11/lesson-02.md)
   - [47 · אחסון ומשלוח ביתי של מתנה](lessons/module-11/lesson-03.md)
   - [מבחן מודול 11](assessments/module-11-quiz.md)
+
+- חלק ג — חלופות
+- **Module 12 — טבעוני ופרווה**
+  - [48 · טבעוני זה לא פרווה](lessons/module-12/lesson-01.md)
+  - [49 · שוקולד "חלב" טבעוני](lessons/module-12/lesson-02.md)
+  - [50 · גנאש בלי שמנת](lessons/module-12/lesson-03.md)
+  - [51 · מילויים טבעוניים](lessons/module-12/lesson-04.md)
+  - [52 · סוכריות, צבעים וברק: מה לא טבעוני](lessons/module-12/lesson-05.md)
+  - [מבחן מודול 12](assessments/module-12-quiz.md)
