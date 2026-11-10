@@ -183,3 +183,16 @@ Reference pages: `references/where-to-buy.md`, `references/kashrut-guide.md`, `g
 Run `node curriculum/tools/check-module.mjs NN` from the course root until it prints
 `0 problems in module NN`. Then append `module done` to the status log and reply with: final lesson
 titles, the project file name, anything under "Requests for main session" (max 15 lines).
+
+## Conventions from the pilot (module 3) — copy these
+
+- `מה צריך`: a table `פריט | כמות לתרגול | כמות מלאה | הערה`, then a bold **אלרגנים:** line.
+- `למה זה עובד`: name the source inline for every number; manufacturer ranges in a table with the brand
+  next to each range, saying the curve on the pack wins.
+- Safety: one `> [!WARNING]` at the top of `שלב אחר שלב` (plus inline ones for specific hot steps);
+  the maltitol warning in every `### בריא יותר` that mentions maltitol.
+- `### כשרות`: only what is written on packages, plus "אם יש ספק, שואלים את הרב".
+- First lesson of a practical module: a `### לפני שמתחילים את המודול` box inside `מה צריך`.
+- Practice reuses the same chocolate across lessons (re-melt), so a module costs little; the project
+  self-check table ends with a "בלי בזבוז" row.
+- Read `lessons/module-03/` before writing, and match its depth (~15-19 KB per lesson).

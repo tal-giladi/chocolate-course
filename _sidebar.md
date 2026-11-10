@@ -1,0 +1,12 @@
+- [Home](/)
+- [מילון מונחים](glossary.md)
+- [איפה קונים: כלים, אריזות וחומרי גלם](references/where-to-buy.md)
+- [מדריך כשרות לחומרי גלם](references/kashrut-guide.md)
+- [תבניות](templates/README.md)
+- **Module 3 — טמפרור**
+  - [10 · למה מטמפרים: ששת צורות הקריסטל](lessons/module-03/lesson-01.md)
+  - [11 · טמפרור בשיטת ההזרעה](lessons/module-03/lesson-02.md)
+  - [12 · טמפרור על משטח](lessons/module-03/lesson-03.md)
+  - [13 · טמפרור עם חמאת קקאו באבקה](lessons/module-03/lesson-04.md)
+  - [14 · בדיקת טמפר ותיקון תקלות: פריחה, פסים וכתמים](lessons/module-03/lesson-05.md)
+  - [מבחן מודול 3](assessments/module-03-quiz.md)

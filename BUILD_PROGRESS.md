@@ -19,7 +19,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - [x] Repo, plan in `curriculum/plan.md`, build spec, manifest, tools, templates, README, course-details
 - [x] Research: official Israeli sources (`curriculum/research/sources.md`)
 - [x] References: `references/where-to-buy.md`, `references/kashrut-guide.md`
-- [ ] Module 3 — טמפרור (pilot)
+- [x] Module 3 — טמפרור (pilot)
 - [ ] Module 1 — המטבח של השוקולד
 - [ ] Module 2 — המסה וטיבול בלי טמפרור
 - [ ] Module 4 — טבלאות ותבניות
@@ -44,7 +44,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 
 ## Agents now
 
-- Module writer: module 3 (pilot)
+- Module writers: module 1, module 2
 
 ## Decisions and open questions
 
@@ -61,3 +61,4 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
   Red labels for solids: sugars 10 g, sat. fat 4 g per 100 g → chocolate gets two red labels; front ≤25 cm² exempt.
 - References (2026-11-10): no dreidel mould sold in Israel → 08.2 must teach ordering abroad or a two-half-sphere/cone workaround;
   no vegan "milk" chocolate found in Israel (12.2 makes it at home); Cacao Barry and Belcolade ARE available.
+- Final QA: add marble/granite slab and room thermometer-hygrometer to where-to-buy (כלים); re-check Mycryo stock/kashrut; optional tempering-log columns (seed grams, minutes on slab).
