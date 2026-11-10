@@ -25,3 +25,11 @@
   - [13 · טמפרור עם חמאת קקאו באבקה](lessons/module-03/lesson-04.md)
   - [14 · בדיקת טמפר ותיקון תקלות: פריחה, פסים וכתמים](lessons/module-03/lesson-05.md)
   - [מבחן מודול 3](assessments/module-03-quiz.md)
+
+- חלק ב — מוצרים ועיצוב
+- **Module 4 — טבלאות ותבניות**
+  - [15 · תבניות פוליקרבונט מול סיליקון](lessons/module-04/lesson-01.md)
+  - [16 · טבלאות ממולאות ומעוטרות](lessons/module-04/lesson-02.md)
+  - [17 · דפי טרנספר ודפי גיטרה](lessons/module-04/lesson-03.md)
+  - [18 · לוליפופ שוקולד ומטבעות](lessons/module-04/lesson-04.md)
+  - [מבחן מודול 4](assessments/module-04-quiz.md)
