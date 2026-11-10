@@ -15,3 +15,4 @@
 - Status of allulose and monk fruit in Israel.
 - Confirm on gov.il whether the 2028 EU-labelling order was signed, and what allergen labelling is required today (lessons cite press).
 - On gov.il (blocked to the build): was the 2022 small-food-producer reform signed; is chocolate in Food Law Schedule 11; does ganache count as controlled-temperature food (s.149).
+- Kashrut law: check on Knesset/Nevo which parts of the 2021 reform and the 2026 temporary order (s.2ז) apply today (module 17 says it was not verified).

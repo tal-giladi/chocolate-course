@@ -111,3 +111,9 @@
   - [67 · מה החוק דורש מהמזון](lessons/module-16/lesson-04.md)
   - [68 · רישוי העסק: מה לשאול ואת מי](lessons/module-16/lesson-05.md)
   - [מבחן מודול 16](assessments/module-16-quiz.md)
+- **Module 17 — כשרות לעסק**
+  - [69 · רבנות מקומית מול הכשר פרטי](lessons/module-17/lesson-01.md)
+  - [70 · בחירת ספקים לפי ההכשר](lessons/module-17/lesson-02.md)
+  - [71 · חלבי, פרווה וציוד חלבי על התווית](lessons/module-17/lesson-03.md)
+  - [72 · מה אסור לכתוב בלי תעודה](lessons/module-17/lesson-04.md)
+  - [מבחן מודול 17](assessments/module-17-quiz.md)
