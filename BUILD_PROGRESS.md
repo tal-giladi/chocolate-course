@@ -24,7 +24,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - [x] Module 2 — המסה וטיבול בלי טמפרור
 - [x] Module 4 — טבלאות ותבניות
 - [x] Module 5 — בונבונים
-- [ ] Module 6 — גנאש וטראפלס
+- [x] Module 6 — גנאש וטראפלס
 - [ ] Module 7 — מילויים
 - [ ] Module 8 — צורות תלת־ממד
 - [ ] Module 9 — קישוטי שוקולד
@@ -44,7 +44,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 
 ## Agents now
 
-- Module writers: module 6, module 7
+- Module writers: module 7, module 8
 
 ## Decisions and open questions
 
@@ -65,3 +65,4 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - Final QA: turn 02.1/02.2 plain mentions of 01.1/01.4 into links; where-to-buy lacks nuts & dried fruit, silicone ice-cube trays, disposable spoons.
 - Final QA: where-to-buy add silicone spatula, airtight boxes; templates/tasting-sheet.md (01.5 inline table); split מכיל/עלול להכיל in recipe-card; add Oct 2026 Pobeda recall to kashrut guide; cross-links listed in curriculum/matrix/module-01.md; 01.4 cites FDA/FARE (gov.il 403) — swap to MoH if reachable.
 - Final QA: process every '## Requests for main session' in curriculum/matrix/module-*.md (shared-file additions, plain-id mentions → links).
+- Final QA (must): align 05.2 ganache-bonbon storage (2 weeks at 14-18°C) with 06.4 (home ganache aw 0.85-0.88 → fridge).

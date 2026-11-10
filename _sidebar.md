@@ -40,3 +40,9 @@
   - [22 · אבקות ברק: מה מאכיל ומה לקישוט בלבד](lessons/module-05/lesson-04.md)
   - [23 · תקלות בבונבונים: לא יוצא, סדקים ודליפות](lessons/module-05/lesson-05.md)
   - [מבחן מודול 5](assessments/module-05-quiz.md)
+- **Module 6 — גנאש וטראפלס**
+  - [24 · גנאש: אמולסיה, יחסים ולמה הוא נפרד](lessons/module-06/lesson-01.md)
+  - [25 · טראפלס מגולגלים](lessons/module-06/lesson-02.md)
+  - [26 · גנאש בטעמים: חליטות, אלכוהול ותבלינים ישראליים](lessons/module-06/lesson-03.md)
+  - [27 · חיי מדף ופעילות מים](lessons/module-06/lesson-04.md)
+  - [מבחן מודול 6](assessments/module-06-quiz.md)

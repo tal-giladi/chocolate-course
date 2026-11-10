@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="720" height="440" font-family="Arial, Helvetica, sans-serif" role="img" aria-label="סרגל טמפרטורות סוכר מ־100 עד 210 מעלות: 105-106 מילוי קרמל רך וג'לי פירות, 110 דבש לנוגט, 116 סירופ למרציפן, 118-120 קרמל לעיסה לחטיף, 140 סירופ לנוגט, 160-177 קרמליזציה, 182-191 רוב מתכוני הקרמל, מעל 204 שרוף; ומתחת: אזור תגובת מייאר עם חלבון חלב, ואזור הסכנה לכוויה מעל 100 מעלות">
+  <rect x="0" y="0" width="720" height="440" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+  <text x="360" y="30" font-size="20" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">כמה מבשלים את הסוכר: טמפרטורה קובעת מרקם</text>
+  <!-- scale: x(T) = 60 + (T-100)*5.5 -->
+
+  <!-- danger band -->
+  <rect x="60" y="210" width="605" height="22" fill="#f3c9b0" stroke="#8a3b12"/>
+  <text x="362" y="226" font-size="13" fill="#5a1f05" text-anchor="middle" direction="rtl">כל הסרגל הזה חם ממים רותחים: סוכר נדבק לעור וממשיך לשרוף</text>
+
+  <!-- caramelisation band -->
+  <rect x="390" y="150" width="94" height="40" fill="#c98f2e" stroke="#4a2f08"/>
+  <text x="437" y="166" font-size="12" fill="#111111" text-anchor="middle" direction="rtl">קרמליזציה</text>
+  <text x="437" y="182" font-size="12" fill="#111111" text-anchor="middle">160-177°C</text>
+  <rect x="512" y="150" width="50" height="40" fill="#8a5a12" stroke="#4a2f08"/>
+  <text x="537" y="166" font-size="11" fill="#ffffff" text-anchor="middle" direction="rtl">רוב</text>
+  <text x="537" y="182" font-size="11" fill="#ffffff" text-anchor="middle">182-191</text>
+  <rect x="632" y="150" width="33" height="40" fill="#3b2410" stroke="#111111"/>
+  <text x="648" y="166" font-size="11" fill="#ffffff" text-anchor="middle" direction="rtl">שרוף</text>
+  <text x="648" y="182" font-size="11" fill="#ffffff" text-anchor="middle">204+</text>
+
+  <!-- markers above -->
+  <g stroke="#222222" stroke-width="1.5">
+    <line x1="91" y1="68" x2="91" y2="250"/>
+    <line x1="115" y1="92" x2="115" y2="250"/>
+    <line x1="148" y1="116" x2="148" y2="250"/>
+    <line x1="170" y1="140" x2="170" y2="250"/>
+    <line x1="280" y1="92" x2="280" y2="250"/>
+  </g>
+  <text x="95" y="62" font-size="12" fill="#111111" text-anchor="end" direction="rtl">105-106: קרמל רך, ג'לי פירות</text>
+  <text x="119" y="86" font-size="12" fill="#111111" text-anchor="end" direction="rtl">110: דבש לנוגט</text>
+  <text x="152" y="110" font-size="12" fill="#111111" text-anchor="end" direction="rtl">116: מרציפן</text>
+  <text x="174" y="134" font-size="12" fill="#111111" text-anchor="end" direction="rtl">118-120: קרמל לעיסה לחטיף</text>
+  <text x="284" y="86" font-size="12" fill="#111111" text-anchor="end" direction="rtl">140: סוכר לנוגט</text>
+
+  <!-- axis -->
+  <line x1="60" y1="250" x2="665" y2="250" stroke="#222222" stroke-width="2"/>
+  <g font-size="12" fill="#222222" text-anchor="middle">
+    <text x="60" y="268">100</text><text x="115" y="268">110</text><text x="170" y="268">120</text><text x="225" y="268">130</text>
+    <text x="280" y="268">140</text><text x="335" y="268">150</text><text x="390" y="268">160</text><text x="445" y="268">170</text>
+    <text x="500" y="268">180</text><text x="555" y="268">190</text><text x="610" y="268">200</text><text x="665" y="268">210</text>
+  </g>
+  <text x="362" y="288" font-size="12" fill="#444444" text-anchor="middle" direction="rtl">°C, נמדד בסוכר עצמו במדחום עם דקר</text>
+
+  <!-- lower notes -->
+  <rect x="60" y="305" width="290" height="110" fill="#eef3f8" stroke="#2a4a6a"/>
+  <text x="340" y="327" font-size="13" font-weight="bold" fill="#111111" text-anchor="end" direction="rtl">מייאר (Maillard)</text>
+  <text x="340" y="347" font-size="12" fill="#111111" text-anchor="end" direction="rtl">סוכר + חלבון (שמנת, חמאה, חלב).</text>
+  <text x="340" y="365" font-size="12" fill="#111111" text-anchor="end" direction="rtl">קורה גם ב־100-120°C, לאט.</text>
+  <text x="340" y="383" font-size="12" fill="#111111" text-anchor="end" direction="rtl">טעם טופי וחמאה, צבע חום־זהוב.</text>
+  <text x="340" y="401" font-size="12" fill="#111111" text-anchor="end" direction="rtl">בקרמל: אחרי שהשמנת נכנסת.</text>
+
+  <rect x="375" y="305" width="290" height="110" fill="#fbf1dc" stroke="#8a5a12"/>
+  <text x="655" y="327" font-size="13" font-weight="bold" fill="#111111" text-anchor="end" direction="rtl">קרמליזציה (caramelisation)</text>
+  <text x="655" y="347" font-size="12" fill="#111111" text-anchor="end" direction="rtl">סוכר לבד, בלי חלבון.</text>
+  <text x="655" y="365" font-size="12" fill="#111111" text-anchor="end" direction="rtl">סוכרוז: מכ־160°C ומעלה.</text>
+  <text x="655" y="383" font-size="12" fill="#111111" text-anchor="end" direction="rtl">כל 5 מעלות: כהה ומר יותר.</text>
+  <text x="655" y="401" font-size="12" fill="#111111" text-anchor="end" direction="rtl">בקרמל: לפני שהשמנת נכנסת.</text>
+</svg>
