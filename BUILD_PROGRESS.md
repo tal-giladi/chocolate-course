@@ -44,7 +44,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 
 ## Agents now
 
-- Module writers: module 21
+- Paused (network down) mid module 21; resume: check curriculum/status/module-21.log, finish 21, then Final QA.
 
 ## Decisions and open questions
 
