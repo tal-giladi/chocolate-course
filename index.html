@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>שוקולד בעבודת יד</title>
+  <meta name="description" content="קורס מעשי בעברית: טמפרור, בונבונים, סביבונים ומארזי חג, ועד חנות שוקולד אונליין בישראל.">
+  <link rel="stylesheet" href="vendor/vue.css">
+  <style>
+    :root { --theme-color: #6b3a1f; }
+    .markdown-section { max-width: 900px; }
+    body { direction: rtl; }
+    .sidebar { right: 0; left: auto; border-left: 1px solid rgba(0,0,0,.07); border-right: none; }
+    .sidebar-toggle { right: 0; left: auto; }
+    body.close .sidebar { transform: translateX(300px); }
+    body.close .sidebar-toggle { width: auto; }
+    .content { right: 300px; left: 0; }
+    body.close .content { right: 0; }
+    .markdown-section pre, .markdown-section code { direction: ltr; text-align: left; }
+    @media screen and (max-width: 768px) { .content { right: 0; } body.close .sidebar { transform: translateX(0); } .sidebar { transform: translateX(300px); } body.close .content { transform: translateX(-300px); } .content { transform: none; } }
+  </style>
+</head>
+<body>
+  <div id="app">טוען…</div>
+  <script>
+    window.$docsify = {
+      name: "שוקולד בעבודת יד",
+      repo: "tal-giladi/chocolate-course",
+      loadSidebar: "_site_sidebar.md",
+      alias: { ".*/_site_sidebar.md": "/_site_sidebar.md" },
+      subMaxLevel: 2,
+      auto2top: true,
+      relativePath: true,
+      search: { depth: 3, placeholder: "חיפוש בשיעורים", noData: "לא נמצא" },
+      mermaidConfig: { querySelector: ".mermaid" },
+      plugins: [
+        function (hook) {
+          // Hide the lesson front-matter (metadata for the Academy importer).
+          hook.beforeEach(function (content) {
+            return content.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, "");
+          });
+          // Links to real files (simulations, CSVs, lab folders) open the file, not a docsify route.
+          hook.doneEach(function () {
+            var base = location.pathname.replace(/[^/]*$/, "");
+            document.querySelectorAll('.markdown-section a[href^="#/"]').forEach(function (a) {
+              var path = a.getAttribute("href").slice(2);
+              var file = path.split("?")[0];
+              var last = file.split("/").pop();
+              if (!(file.slice(-1) === "/" || /\.[a-z0-9]+$/i.test(last))) return;
+              // GitHub Pages has no folder listings: show lab folders on GitHub instead.
+              var online = /github\.io$/.test(location.hostname) && file.slice(-1) === "/";
+              a.setAttribute("href", online ? "https://github.com/tal-giladi/chocolate-course/tree/main/" + file : base + path);
+              a.setAttribute("target", "_blank");
+              a.setAttribute("rel", "noopener");
+            });
+          });
+        }
+      ]
+    };
+  </script>
+  <script src="vendor/docsify.min.js"></script>
+  <script src="vendor/search.min.js"></script>
+  <script src="vendor/docsify-plugin-flexible-alerts.min.js"></script>
+  <script src="vendor/mermaid.min.js"></script>
+  <script src="vendor/docsify-mermaid.js"></script>
+  <script>mermaid.initialize({ startOnLoad: false });</script>
+</body>
+</html>

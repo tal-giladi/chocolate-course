@@ -25,3 +25,5 @@ for (const m of manifest.modules) {
 }
 fs.writeFileSync("_sidebar.md", out.join("\n") + "\n");
 console.log("sidebar written");
+// The docsify site (index.html, relativePath on) needs root-absolute sidebar links.
+fs.writeFileSync("_site_sidebar.md", out.join("\n").replace(/\]\((?!\/|https?:)/g, "](/") + "\n");

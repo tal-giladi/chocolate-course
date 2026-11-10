@@ -1,0 +1,142 @@
+- [Home](/)
+- [מילון מונחים](/glossary.md)
+- [איפה קונים: כלים, אריזות וחומרי גלם](/references/where-to-buy.md)
+- [מדריך כשרות לחומרי גלם](/references/kashrut-guide.md)
+- [תבניות](/templates/README.md)
+
+- חלק א — יסודות
+- **Module 1 — המטבח של השוקולד**
+  - [01 · מה זה שוקולד: קוברטורה, ציפוי, אחוזי קקאו ושוקולד רובי](/lessons/module-01/lesson-01.md)
+  - [02 · ערכת ציוד ראשונה ואיפה קונים בישראל](/lessons/module-01/lesson-02.md)
+  - [03 · כשרות בשוקולד: איך קוראים הכשר על האריזה](/lessons/module-01/lesson-03.md)
+  - [04 · בטיחות מזון והיגיינה במטבח הביתי](/lessons/module-01/lesson-04.md)
+  - [05 · טעימה כמו מקצוען: ברק, סנאפ, מרקם וארומה](/lessons/module-01/lesson-05.md)
+  - [מבחן מודול 1](/assessments/module-01-quiz.md)
+- **Module 2 — המסה וטיבול בלי טמפרור**
+  - [06 · להמיס נכון: מיקרוגל, בן־מארי ולמה שוקולד נתפס](/lessons/module-02/lesson-01.md)
+  - [07 · תותים ופירות מטובלים](/lessons/module-02/lesson-02.md)
+  - [08 · מנדיאנטים וטבלאות פירות יבשים ואגוזים](/lessons/module-02/lesson-03.md)
+  - [09 · כפיות שוקולד וסטיקים לשוקו חם](/lessons/module-02/lesson-04.md)
+  - [מבחן מודול 2](/assessments/module-02-quiz.md)
+- **Module 3 — טמפרור**
+  - [10 · למה מטמפרים: ששת צורות הקריסטל](/lessons/module-03/lesson-01.md)
+  - [11 · טמפרור בשיטת ההזרעה](/lessons/module-03/lesson-02.md)
+  - [12 · טמפרור על משטח](/lessons/module-03/lesson-03.md)
+  - [13 · טמפרור עם חמאת קקאו באבקה](/lessons/module-03/lesson-04.md)
+  - [14 · בדיקת טמפר ותיקון תקלות: פריחה, פסים וכתמים](/lessons/module-03/lesson-05.md)
+  - [מבחן מודול 3](/assessments/module-03-quiz.md)
+
+- חלק ב — מוצרים ועיצוב
+- **Module 4 — טבלאות ותבניות**
+  - [15 · תבניות פוליקרבונט מול סיליקון](/lessons/module-04/lesson-01.md)
+  - [16 · טבלאות ממולאות ומעוטרות](/lessons/module-04/lesson-02.md)
+  - [17 · דפי טרנספר ודפי גיטרה](/lessons/module-04/lesson-03.md)
+  - [18 · לוליפופ שוקולד ומטבעות](/lessons/module-04/lesson-04.md)
+  - [מבחן מודול 4](/assessments/module-04-quiz.md)
+- **Module 5 — בונבונים**
+  - [19 · יציקת קליפה: יציקה, ריקון וניקוי](/lessons/module-05/lesson-01.md)
+  - [20 · מילוי וסגירה](/lessons/module-05/lesson-02.md)
+  - [21 · צביעה בחמאת קקאו צבעונית](/lessons/module-05/lesson-03.md)
+  - [22 · אבקות ברק: מה מאכיל ומה לקישוט בלבד](/lessons/module-05/lesson-04.md)
+  - [23 · תקלות בבונבונים: לא יוצא, סדקים ודליפות](/lessons/module-05/lesson-05.md)
+  - [מבחן מודול 5](/assessments/module-05-quiz.md)
+- **Module 6 — גנאש וטראפלס**
+  - [24 · גנאש: אמולסיה, יחסים ולמה הוא נפרד](/lessons/module-06/lesson-01.md)
+  - [25 · טראפלס מגולגלים](/lessons/module-06/lesson-02.md)
+  - [26 · גנאש בטעמים: חליטות, אלכוהול ותבלינים ישראליים](/lessons/module-06/lesson-03.md)
+  - [27 · חיי מדף ופעילות מים](/lessons/module-06/lesson-04.md)
+  - [מבחן מודול 6](/assessments/module-06-quiz.md)
+- **Module 7 — מילויים**
+  - [28 · קרמל מלוח](/lessons/module-07/lesson-01.md)
+  - [29 · פרלינה וג'יאנדוז'ה ביתיים](/lessons/module-07/lesson-02.md)
+  - [30 · מילויי פירות וג'לי](/lessons/module-07/lesson-03.md)
+  - [31 · נוגט, מרציפן וחטיף בוטנים וקרמל](/lessons/module-07/lesson-04.md)
+  - [מבחן מודול 7](/assessments/module-07-quiz.md)
+- **Module 8 — צורות תלת־ממד**
+  - [32 · יציקה חלולה בשני חצאים](/lessons/module-08/lesson-01.md)
+  - [33 · סביבוני שוקולד](/lessons/module-08/lesson-02.md)
+  - [34 · ביצים, לבבות ופצצות שוקו](/lessons/module-08/lesson-03.md)
+  - [35 · דמויות קטנות ותבניות מודפסות](/lessons/module-08/lesson-04.md)
+  - [מבחן מודול 8](/assessments/module-08-quiz.md)
+- **Module 9 — קישוטי שוקולד**
+  - [36 · תלתלים, מניפות ופסים על אצטט](/lessons/module-09/lesson-01.md)
+  - [37 · זילוף שוקולד ותחרה](/lessons/module-09/lesson-02.md)
+  - [38 · קישוטים לעוגות וקינוחים](/lessons/module-09/lesson-03.md)
+  - [מבחן מודול 9](/assessments/module-09-quiz.md)
+- **Module 10 — לוח השנה היהודי והישראלי**
+  - [39 · חנוכה: סביבונים, מטבעות וחנוכיות שוקולד](/lessons/module-10/lesson-01.md)
+  - [40 · ט"ו בשבט: שוקולד עם פירות יבשים ותמרים](/lessons/module-10/lesson-02.md)
+  - [41 · פורים: משלוחי מנות](/lessons/module-10/lesson-03.md)
+  - [42 · פסח: חומרי גלם כשרים לפסח](/lessons/module-10/lesson-04.md)
+  - [43 · ראש השנה: תפוח, דבש ורימונים](/lessons/module-10/lesson-05.md)
+  - [44 · אירועים: בר ובת מצווה, חתונות וימי הולדת](/lessons/module-10/lesson-06.md)
+  - [מבחן מודול 10](/assessments/module-10-quiz.md)
+- **Module 11 — אריזה ומתנה**
+  - [45 · קופסאות, תחתיות וצלופן](/lessons/module-11/lesson-01.md)
+  - [46 · עיצוב מארז ועלות לכל מארז](/lessons/module-11/lesson-02.md)
+  - [47 · אחסון ומשלוח ביתי של מתנה](/lessons/module-11/lesson-03.md)
+  - [מבחן מודול 11](/assessments/module-11-quiz.md)
+
+- חלק ג — חלופות
+- **Module 12 — טבעוני ופרווה**
+  - [48 · טבעוני זה לא פרווה](/lessons/module-12/lesson-01.md)
+  - [49 · שוקולד "חלב" טבעוני](/lessons/module-12/lesson-02.md)
+  - [50 · גנאש בלי שמנת](/lessons/module-12/lesson-03.md)
+  - [51 · מילויים טבעוניים](/lessons/module-12/lesson-04.md)
+  - [52 · סוכריות, צבעים וברק: מה לא טבעוני](/lessons/module-12/lesson-05.md)
+  - [מבחן מודול 12](/assessments/module-12-quiz.md)
+- **Module 13 — בריא יותר**
+  - [53 · מה באמת "בריא יותר" בשוקולד](/lessons/module-13/lesson-01.md)
+  - [54 · ממתיקים: מלטיטול, אריתריטול, אלולוזה וסטיביה](/lessons/module-13/lesson-02.md)
+  - [55 · שוקולד גולמי וממותק בתמרים](/lessons/module-13/lesson-03.md)
+  - [56 · חטיפי שוקולד עם אגוזים, זרעים ופירות](/lessons/module-13/lesson-04.md)
+  - [57 · טענות בריאות: מה אסור לכתוב על האריזה](/lessons/module-13/lesson-05.md)
+  - [מבחן מודול 13](/assessments/module-13-quiz.md)
+- **Module 14 — אלרגיות ורגישויות**
+  - [58 · בלי אגוזים, בלי בוטנים ובלי סויה](/lessons/module-14/lesson-01.md)
+  - [59 · בלי גלוטן: איפה הוא מסתתר](/lessons/module-14/lesson-02.md)
+  - [60 · הפרדה במטבח ומה אפשר להבטיח לאורח](/lessons/module-14/lesson-03.md)
+  - [מבחן מודול 14](/assessments/module-14-quiz.md)
+
+- חלק ד — עסק: חנות שוקולד אונליין
+- **Module 15 — לפני שפותחים**
+  - [61 · מודלים עסקיים לחנות שוקולד](/lessons/module-15/lesson-01.md)
+  - [62 · מחקר שוק: מתחרים, מחירים ועונתיות](/lessons/module-15/lesson-02.md)
+  - [63 · בחירת נישה](/lessons/module-15/lesson-03.md)
+  - [מבחן מודול 15](/assessments/module-15-quiz.md)
+- **Module 16 — בטיחות מזון ורישוי**
+  - [64 · בטיחות מזון למכירה](/lessons/module-16/lesson-01.md)
+  - [65 · אלרגנים במכירה](/lessons/module-16/lesson-02.md)
+  - [66 · אחסון, קירור והובלה](/lessons/module-16/lesson-03.md)
+  - [67 · מה החוק דורש מהמזון](/lessons/module-16/lesson-04.md)
+  - [68 · רישוי העסק: מה לשאול ואת מי](/lessons/module-16/lesson-05.md)
+  - [מבחן מודול 16](/assessments/module-16-quiz.md)
+- **Module 17 — כשרות לעסק**
+  - [69 · רבנות מקומית מול הכשר פרטי](/lessons/module-17/lesson-01.md)
+  - [70 · בחירת ספקים לפי ההכשר](/lessons/module-17/lesson-02.md)
+  - [71 · חלבי, פרווה וציוד חלבי על התווית](/lessons/module-17/lesson-03.md)
+  - [72 · מה אסור לכתוב בלי תעודה](/lessons/module-17/lesson-04.md)
+  - [מבחן מודול 17](/assessments/module-17-quiz.md)
+- **Module 18 — מוצר, תווית וחיי מדף**
+  - [73 · סימון מזון בישראל](/lessons/module-18/lesson-01.md)
+  - [74 · מבחני חיי מדף ואחסון](/lessons/module-18/lesson-02.md)
+  - [75 · עיצוב מארז, מיתוג ותוויות](/lessons/module-18/lesson-03.md)
+  - [76 · צילום מוצר לחנות](/lessons/module-18/lesson-04.md)
+  - [מבחן מודול 18](/assessments/module-18-quiz.md)
+- **Module 19 — מספרים**
+  - [77 · תמחור מוצר](/lessons/module-19/lesson-01.md)
+  - [78 · מחיר מכירה, מרווח ומחיר לחברות](/lessons/module-19/lesson-02.md)
+  - [79 · תכנון ייצור לעונה](/lessons/module-19/lesson-03.md)
+  - [80 · גיליון תמחור מלא](/lessons/module-19/lesson-04.md)
+  - [מבחן מודול 19](/assessments/module-19-quiz.md)
+- **Module 20 — חנות אונליין ומשלוחים**
+  - [81 · פלטפורמות לחנות אונליין](/lessons/module-20/lesson-01.md)
+  - [82 · סליקה, תשלום וחשבוניות](/lessons/module-20/lesson-02.md)
+  - [83 · משלוח שוקולד בחום הישראלי](/lessons/module-20/lesson-03.md)
+  - [84 · מדיניות החזרות ושירות לקוחות](/lessons/module-20/lesson-04.md)
+  - [מבחן מודול 20](/assessments/module-20-quiz.md)
+- **Module 21 — שיווק והשקה**
+  - [85 · אינסטגרם וטיקטוק: צילום, רילס ולוח תוכן לחגים](/lessons/module-21/lesson-01.md)
+  - [86 · מתנות לחברות: הצעת מחיר, מיתוג והזמנות גדולות](/lessons/module-21/lesson-02.md)
+  - [87 · ביקורות, לקוחות חוזרים ומנויים](/lessons/module-21/lesson-03.md)
+  - [מבחן מודול 21](/assessments/module-21-quiz.md)
