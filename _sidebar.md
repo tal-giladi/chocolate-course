@@ -58,3 +58,8 @@
   - [34 · ביצים, לבבות ופצצות שוקו](lessons/module-08/lesson-03.md)
   - [35 · דמויות קטנות ותבניות מודפסות](lessons/module-08/lesson-04.md)
   - [מבחן מודול 8](assessments/module-08-quiz.md)
+- **Module 9 — קישוטי שוקולד**
+  - [36 · תלתלים, מניפות ופסים על אצטט](lessons/module-09/lesson-01.md)
+  - [37 · זילוף שוקולד ותחרה](lessons/module-09/lesson-02.md)
+  - [38 · קישוטים לעוגות וקינוחים](lessons/module-09/lesson-03.md)
+  - [מבחן מודול 9](assessments/module-09-quiz.md)
