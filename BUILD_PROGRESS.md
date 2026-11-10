@@ -18,7 +18,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 
 - [x] Repo, plan in `curriculum/plan.md`, build spec, manifest, tools, templates, README, course-details
 - [x] Research: official Israeli sources (`curriculum/research/sources.md`)
-- [ ] References: `references/where-to-buy.md`, `references/kashrut-guide.md`
+- [x] References: `references/where-to-buy.md`, `references/kashrut-guide.md`
 - [ ] Module 3 — טמפרור (pilot)
 - [ ] Module 1 — המטבח של השוקולד
 - [ ] Module 2 — המסה וטיבול בלי טמפרור
@@ -45,7 +45,6 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 ## Agents now
 
 - Module writer: module 3 (pilot)
-- Research agent: shops and kashrut → `references/where-to-buy.md`, `references/kashrut-guide.md`
 
 ## Decisions and open questions
 
@@ -60,3 +59,5 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
   SI 1145 → EU 1169/2011 rules voluntary since 1.1.2025, mandatory 1.1.2028 (draft) — 18.1 teaches both;
   polyol warning wording unconfirmed ("פעילות מעיים מוגברת" per press) — lessons say "check current rule".
   Red labels for solids: sugars 10 g, sat. fat 4 g per 100 g → chocolate gets two red labels; front ≤25 cm² exempt.
+- References (2026-11-10): no dreidel mould sold in Israel → 08.2 must teach ordering abroad or a two-half-sphere/cone workaround;
+  no vegan "milk" chocolate found in Israel (12.2 makes it at home); Cacao Barry and Belcolade ARE available.
