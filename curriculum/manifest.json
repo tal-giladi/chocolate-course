@@ -1,0 +1,694 @@
+{
+  "modules": [
+    {
+      "number": 1,
+      "title": "המטבח של השוקולד",
+      "project": "projects/m01-first-bark.md",
+      "lessons": [
+        {
+          "id": "01.1",
+          "running": 1,
+          "title": "מה זה שוקולד: קוברטורה, ציפוי, אחוזי קקאו ושוקולד רובי",
+          "file": "lessons/module-01/lesson-01.md"
+        },
+        {
+          "id": "01.2",
+          "running": 2,
+          "title": "ערכת ציוד ראשונה ואיפה קונים בישראל",
+          "file": "lessons/module-01/lesson-02.md"
+        },
+        {
+          "id": "01.3",
+          "running": 3,
+          "title": "כשרות בשוקולד: איך קוראים הכשר על האריזה",
+          "file": "lessons/module-01/lesson-03.md"
+        },
+        {
+          "id": "01.4",
+          "running": 4,
+          "title": "בטיחות מזון והיגיינה במטבח הביתי",
+          "file": "lessons/module-01/lesson-04.md"
+        },
+        {
+          "id": "01.5",
+          "running": 5,
+          "title": "טעימה כמו מקצוען: ברק, סנאפ, מרקם וארומה",
+          "file": "lessons/module-01/lesson-05.md"
+        }
+      ],
+      "quiz": "assessments/module-01-quiz.md"
+    },
+    {
+      "number": 2,
+      "title": "המסה וטיבול בלי טמפרור",
+      "project": "projects/m02-dipped-platter.md",
+      "lessons": [
+        {
+          "id": "02.1",
+          "running": 6,
+          "title": "להמיס נכון: מיקרוגל, בן־מארי ולמה שוקולד נתפס",
+          "file": "lessons/module-02/lesson-01.md"
+        },
+        {
+          "id": "02.2",
+          "running": 7,
+          "title": "תותים ופירות מטובלים",
+          "file": "lessons/module-02/lesson-02.md"
+        },
+        {
+          "id": "02.3",
+          "running": 8,
+          "title": "מנדיאנטים וטבלאות פירות יבשים ואגוזים",
+          "file": "lessons/module-02/lesson-03.md"
+        },
+        {
+          "id": "02.4",
+          "running": 9,
+          "title": "כפיות שוקולד וסטיקים לשוקו חם",
+          "file": "lessons/module-02/lesson-04.md"
+        }
+      ],
+      "quiz": "assessments/module-02-quiz.md"
+    },
+    {
+      "number": 3,
+      "title": "טמפרור",
+      "project": "projects/m03-three-methods.md",
+      "lessons": [
+        {
+          "id": "03.1",
+          "running": 10,
+          "title": "למה מטמפרים: ששת צורות הקריסטל",
+          "file": "lessons/module-03/lesson-01.md"
+        },
+        {
+          "id": "03.2",
+          "running": 11,
+          "title": "טמפרור בשיטת ההזרעה",
+          "file": "lessons/module-03/lesson-02.md"
+        },
+        {
+          "id": "03.3",
+          "running": 12,
+          "title": "טמפרור על משטח",
+          "file": "lessons/module-03/lesson-03.md"
+        },
+        {
+          "id": "03.4",
+          "running": 13,
+          "title": "טמפרור עם חמאת קקאו באבקה",
+          "file": "lessons/module-03/lesson-04.md"
+        },
+        {
+          "id": "03.5",
+          "running": 14,
+          "title": "בדיקת טמפר ותיקון תקלות: פריחה, פסים וכתמים",
+          "file": "lessons/module-03/lesson-05.md"
+        }
+      ],
+      "quiz": "assessments/module-03-quiz.md"
+    },
+    {
+      "number": 4,
+      "title": "טבלאות ותבניות",
+      "project": "projects/m04-filled-bars.md",
+      "lessons": [
+        {
+          "id": "04.1",
+          "running": 15,
+          "title": "תבניות פוליקרבונט מול סיליקון",
+          "file": "lessons/module-04/lesson-01.md"
+        },
+        {
+          "id": "04.2",
+          "running": 16,
+          "title": "טבלאות ממולאות ומעוטרות",
+          "file": "lessons/module-04/lesson-02.md"
+        },
+        {
+          "id": "04.3",
+          "running": 17,
+          "title": "דפי טרנספר ודפי גיטרה",
+          "file": "lessons/module-04/lesson-03.md"
+        },
+        {
+          "id": "04.4",
+          "running": 18,
+          "title": "לוליפופ שוקולד ומטבעות",
+          "file": "lessons/module-04/lesson-04.md"
+        }
+      ],
+      "quiz": "assessments/module-04-quiz.md"
+    },
+    {
+      "number": 5,
+      "title": "בונבונים",
+      "project": "projects/m05-first-bonbons.md",
+      "lessons": [
+        {
+          "id": "05.1",
+          "running": 19,
+          "title": "יציקת קליפה: יציקה, ריקון וניקוי",
+          "file": "lessons/module-05/lesson-01.md"
+        },
+        {
+          "id": "05.2",
+          "running": 20,
+          "title": "מילוי וסגירה",
+          "file": "lessons/module-05/lesson-02.md"
+        },
+        {
+          "id": "05.3",
+          "running": 21,
+          "title": "צביעה בחמאת קקאו צבעונית",
+          "file": "lessons/module-05/lesson-03.md"
+        },
+        {
+          "id": "05.4",
+          "running": 22,
+          "title": "אבקות ברק: מה מאכיל ומה לקישוט בלבד",
+          "file": "lessons/module-05/lesson-04.md"
+        },
+        {
+          "id": "05.5",
+          "running": 23,
+          "title": "תקלות בבונבונים: לא יוצא, סדקים ודליפות",
+          "file": "lessons/module-05/lesson-05.md"
+        }
+      ],
+      "quiz": "assessments/module-05-quiz.md"
+    },
+    {
+      "number": 6,
+      "title": "גנאש וטראפלס",
+      "project": "projects/m06-truffle-box.md",
+      "lessons": [
+        {
+          "id": "06.1",
+          "running": 24,
+          "title": "גנאש: אמולסיה, יחסים ולמה הוא נפרד",
+          "file": "lessons/module-06/lesson-01.md"
+        },
+        {
+          "id": "06.2",
+          "running": 25,
+          "title": "טראפלס מגולגלים",
+          "file": "lessons/module-06/lesson-02.md"
+        },
+        {
+          "id": "06.3",
+          "running": 26,
+          "title": "גנאש בטעמים: חליטות, אלכוהול ותבלינים ישראליים",
+          "file": "lessons/module-06/lesson-03.md"
+        },
+        {
+          "id": "06.4",
+          "running": 27,
+          "title": "חיי מדף ופעילות מים",
+          "file": "lessons/module-06/lesson-04.md"
+        }
+      ],
+      "quiz": "assessments/module-06-quiz.md"
+    },
+    {
+      "number": 7,
+      "title": "מילויים",
+      "project": "projects/m07-filled-selection.md",
+      "lessons": [
+        {
+          "id": "07.1",
+          "running": 28,
+          "title": "קרמל מלוח",
+          "file": "lessons/module-07/lesson-01.md"
+        },
+        {
+          "id": "07.2",
+          "running": 29,
+          "title": "פרלינה וג'יאנדוז'ה ביתיים",
+          "file": "lessons/module-07/lesson-02.md"
+        },
+        {
+          "id": "07.3",
+          "running": 30,
+          "title": "מילויי פירות וג'לי",
+          "file": "lessons/module-07/lesson-03.md"
+        },
+        {
+          "id": "07.4",
+          "running": 31,
+          "title": "נוגט, מרציפן וחטיף בוטנים וקרמל",
+          "file": "lessons/module-07/lesson-04.md"
+        }
+      ],
+      "quiz": "assessments/module-07-quiz.md"
+    },
+    {
+      "number": 8,
+      "title": "צורות תלת־ממד",
+      "project": "projects/m08-dreidel-box.md",
+      "lessons": [
+        {
+          "id": "08.1",
+          "running": 32,
+          "title": "יציקה חלולה בשני חצאים",
+          "file": "lessons/module-08/lesson-01.md"
+        },
+        {
+          "id": "08.2",
+          "running": 33,
+          "title": "סביבוני שוקולד",
+          "file": "lessons/module-08/lesson-02.md"
+        },
+        {
+          "id": "08.3",
+          "running": 34,
+          "title": "ביצים, לבבות ופצצות שוקו",
+          "file": "lessons/module-08/lesson-03.md"
+        },
+        {
+          "id": "08.4",
+          "running": 35,
+          "title": "דמויות קטנות ותבניות מודפסות",
+          "file": "lessons/module-08/lesson-04.md"
+        }
+      ],
+      "quiz": "assessments/module-08-quiz.md"
+    },
+    {
+      "number": 9,
+      "title": "קישוטי שוקולד",
+      "project": "projects/m09-decorated-dessert.md",
+      "lessons": [
+        {
+          "id": "09.1",
+          "running": 36,
+          "title": "תלתלים, מניפות ופסים על אצטט",
+          "file": "lessons/module-09/lesson-01.md"
+        },
+        {
+          "id": "09.2",
+          "running": 37,
+          "title": "זילוף שוקולד ותחרה",
+          "file": "lessons/module-09/lesson-02.md"
+        },
+        {
+          "id": "09.3",
+          "running": 38,
+          "title": "קישוטים לעוגות וקינוחים",
+          "file": "lessons/module-09/lesson-03.md"
+        }
+      ],
+      "quiz": "assessments/module-09-quiz.md"
+    },
+    {
+      "number": 10,
+      "title": "לוח השנה היהודי והישראלי",
+      "project": "projects/m10-holiday-calendar.md",
+      "lessons": [
+        {
+          "id": "10.1",
+          "running": 39,
+          "title": "חנוכה: סביבונים, מטבעות וחנוכיות שוקולד",
+          "file": "lessons/module-10/lesson-01.md"
+        },
+        {
+          "id": "10.2",
+          "running": 40,
+          "title": "ט\"ו בשבט: שוקולד עם פירות יבשים ותמרים",
+          "file": "lessons/module-10/lesson-02.md"
+        },
+        {
+          "id": "10.3",
+          "running": 41,
+          "title": "פורים: משלוחי מנות",
+          "file": "lessons/module-10/lesson-03.md"
+        },
+        {
+          "id": "10.4",
+          "running": 42,
+          "title": "פסח: חומרי גלם כשרים לפסח",
+          "file": "lessons/module-10/lesson-04.md"
+        },
+        {
+          "id": "10.5",
+          "running": 43,
+          "title": "ראש השנה: תפוח, דבש ורימונים",
+          "file": "lessons/module-10/lesson-05.md"
+        },
+        {
+          "id": "10.6",
+          "running": 44,
+          "title": "אירועים: בר ובת מצווה, חתונות וימי הולדת",
+          "file": "lessons/module-10/lesson-06.md"
+        }
+      ],
+      "quiz": "assessments/module-10-quiz.md"
+    },
+    {
+      "number": 11,
+      "title": "אריזה ומתנה",
+      "project": "projects/m11-holiday-gift-box.md",
+      "lessons": [
+        {
+          "id": "11.1",
+          "running": 45,
+          "title": "קופסאות, תחתיות וצלופן",
+          "file": "lessons/module-11/lesson-01.md"
+        },
+        {
+          "id": "11.2",
+          "running": 46,
+          "title": "עיצוב מארז ועלות לכל מארז",
+          "file": "lessons/module-11/lesson-02.md"
+        },
+        {
+          "id": "11.3",
+          "running": 47,
+          "title": "אחסון ומשלוח ביתי של מתנה",
+          "file": "lessons/module-11/lesson-03.md"
+        }
+      ],
+      "quiz": "assessments/module-11-quiz.md"
+    },
+    {
+      "number": 12,
+      "title": "טבעוני ופרווה",
+      "project": "projects/m12-vegan-box.md",
+      "lessons": [
+        {
+          "id": "12.1",
+          "running": 48,
+          "title": "טבעוני זה לא פרווה",
+          "file": "lessons/module-12/lesson-01.md"
+        },
+        {
+          "id": "12.2",
+          "running": 49,
+          "title": "שוקולד \"חלב\" טבעוני",
+          "file": "lessons/module-12/lesson-02.md"
+        },
+        {
+          "id": "12.3",
+          "running": 50,
+          "title": "גנאש בלי שמנת",
+          "file": "lessons/module-12/lesson-03.md"
+        },
+        {
+          "id": "12.4",
+          "running": 51,
+          "title": "מילויים טבעוניים",
+          "file": "lessons/module-12/lesson-04.md"
+        },
+        {
+          "id": "12.5",
+          "running": 52,
+          "title": "סוכריות, צבעים וברק: מה לא טבעוני",
+          "file": "lessons/module-12/lesson-05.md"
+        }
+      ],
+      "quiz": "assessments/module-12-quiz.md"
+    },
+    {
+      "number": 13,
+      "title": "בריא יותר",
+      "project": "projects/m13-less-sugar-comparison.md",
+      "lessons": [
+        {
+          "id": "13.1",
+          "running": 53,
+          "title": "מה באמת \"בריא יותר\" בשוקולד",
+          "file": "lessons/module-13/lesson-01.md"
+        },
+        {
+          "id": "13.2",
+          "running": 54,
+          "title": "ממתיקים: מלטיטול, אריתריטול, אלולוזה וסטיביה",
+          "file": "lessons/module-13/lesson-02.md"
+        },
+        {
+          "id": "13.3",
+          "running": 55,
+          "title": "שוקולד גולמי וממותק בתמרים",
+          "file": "lessons/module-13/lesson-03.md"
+        },
+        {
+          "id": "13.4",
+          "running": 56,
+          "title": "חטיפי שוקולד עם אגוזים, זרעים ופירות",
+          "file": "lessons/module-13/lesson-04.md"
+        },
+        {
+          "id": "13.5",
+          "running": 57,
+          "title": "טענות בריאות: מה אסור לכתוב על האריזה",
+          "file": "lessons/module-13/lesson-05.md"
+        }
+      ],
+      "quiz": "assessments/module-13-quiz.md"
+    },
+    {
+      "number": 14,
+      "title": "אלרגיות ורגישויות",
+      "project": "projects/m14-allergen-safe-batch.md",
+      "lessons": [
+        {
+          "id": "14.1",
+          "running": 58,
+          "title": "בלי אגוזים, בלי בוטנים ובלי סויה",
+          "file": "lessons/module-14/lesson-01.md"
+        },
+        {
+          "id": "14.2",
+          "running": 59,
+          "title": "בלי גלוטן: איפה הוא מסתתר",
+          "file": "lessons/module-14/lesson-02.md"
+        },
+        {
+          "id": "14.3",
+          "running": 60,
+          "title": "הפרדה במטבח ומה אפשר להבטיח לאורח",
+          "file": "lessons/module-14/lesson-03.md"
+        }
+      ],
+      "quiz": "assessments/module-14-quiz.md"
+    },
+    {
+      "number": 15,
+      "title": "לפני שפותחים",
+      "project": "projects/m15-market-research.md",
+      "lessons": [
+        {
+          "id": "15.1",
+          "running": 61,
+          "title": "מודלים עסקיים לחנות שוקולד",
+          "file": "lessons/module-15/lesson-01.md"
+        },
+        {
+          "id": "15.2",
+          "running": 62,
+          "title": "מחקר שוק: מתחרים, מחירים ועונתיות",
+          "file": "lessons/module-15/lesson-02.md"
+        },
+        {
+          "id": "15.3",
+          "running": 63,
+          "title": "בחירת נישה",
+          "file": "lessons/module-15/lesson-03.md"
+        }
+      ],
+      "quiz": "assessments/module-15-quiz.md"
+    },
+    {
+      "number": 16,
+      "title": "בטיחות מזון ורישוי",
+      "project": "projects/m16-food-safety-plan.md",
+      "lessons": [
+        {
+          "id": "16.1",
+          "running": 64,
+          "title": "בטיחות מזון למכירה",
+          "file": "lessons/module-16/lesson-01.md"
+        },
+        {
+          "id": "16.2",
+          "running": 65,
+          "title": "אלרגנים במכירה",
+          "file": "lessons/module-16/lesson-02.md"
+        },
+        {
+          "id": "16.3",
+          "running": 66,
+          "title": "אחסון, קירור והובלה",
+          "file": "lessons/module-16/lesson-03.md"
+        },
+        {
+          "id": "16.4",
+          "running": 67,
+          "title": "מה החוק דורש מהמזון",
+          "file": "lessons/module-16/lesson-04.md"
+        },
+        {
+          "id": "16.5",
+          "running": 68,
+          "title": "רישוי העסק: מה לשאול ואת מי",
+          "file": "lessons/module-16/lesson-05.md"
+        }
+      ],
+      "quiz": "assessments/module-16-quiz.md"
+    },
+    {
+      "number": 17,
+      "title": "כשרות לעסק",
+      "project": "projects/m17-kashrut-plan.md",
+      "lessons": [
+        {
+          "id": "17.1",
+          "running": 69,
+          "title": "רבנות מקומית מול הכשר פרטי",
+          "file": "lessons/module-17/lesson-01.md"
+        },
+        {
+          "id": "17.2",
+          "running": 70,
+          "title": "בחירת ספקים לפי ההכשר",
+          "file": "lessons/module-17/lesson-02.md"
+        },
+        {
+          "id": "17.3",
+          "running": 71,
+          "title": "חלבי, פרווה וציוד חלבי על התווית",
+          "file": "lessons/module-17/lesson-03.md"
+        },
+        {
+          "id": "17.4",
+          "running": 72,
+          "title": "מה אסור לכתוב בלי תעודה",
+          "file": "lessons/module-17/lesson-04.md"
+        }
+      ],
+      "quiz": "assessments/module-17-quiz.md"
+    },
+    {
+      "number": 18,
+      "title": "מוצר, תווית וחיי מדף",
+      "project": "projects/m18-product-label.md",
+      "lessons": [
+        {
+          "id": "18.1",
+          "running": 73,
+          "title": "סימון מזון בישראל",
+          "file": "lessons/module-18/lesson-01.md"
+        },
+        {
+          "id": "18.2",
+          "running": 74,
+          "title": "מבחני חיי מדף ואחסון",
+          "file": "lessons/module-18/lesson-02.md"
+        },
+        {
+          "id": "18.3",
+          "running": 75,
+          "title": "עיצוב מארז, מיתוג ותוויות",
+          "file": "lessons/module-18/lesson-03.md"
+        },
+        {
+          "id": "18.4",
+          "running": 76,
+          "title": "צילום מוצר לחנות",
+          "file": "lessons/module-18/lesson-04.md"
+        }
+      ],
+      "quiz": "assessments/module-18-quiz.md"
+    },
+    {
+      "number": 19,
+      "title": "מספרים",
+      "project": "projects/m19-pricing-sheet.md",
+      "lessons": [
+        {
+          "id": "19.1",
+          "running": 77,
+          "title": "תמחור מוצר",
+          "file": "lessons/module-19/lesson-01.md"
+        },
+        {
+          "id": "19.2",
+          "running": 78,
+          "title": "מחיר מכירה, מרווח ומחיר לחברות",
+          "file": "lessons/module-19/lesson-02.md"
+        },
+        {
+          "id": "19.3",
+          "running": 79,
+          "title": "תכנון ייצור לעונה",
+          "file": "lessons/module-19/lesson-03.md"
+        },
+        {
+          "id": "19.4",
+          "running": 80,
+          "title": "גיליון תמחור מלא",
+          "file": "lessons/module-19/lesson-04.md"
+        }
+      ],
+      "quiz": "assessments/module-19-quiz.md"
+    },
+    {
+      "number": 20,
+      "title": "חנות אונליין ומשלוחים",
+      "project": "projects/m20-shop-setup.md",
+      "lessons": [
+        {
+          "id": "20.1",
+          "running": 81,
+          "title": "פלטפורמות לחנות אונליין",
+          "file": "lessons/module-20/lesson-01.md"
+        },
+        {
+          "id": "20.2",
+          "running": 82,
+          "title": "סליקה, תשלום וחשבוניות",
+          "file": "lessons/module-20/lesson-02.md"
+        },
+        {
+          "id": "20.3",
+          "running": 83,
+          "title": "משלוח שוקולד בחום הישראלי",
+          "file": "lessons/module-20/lesson-03.md"
+        },
+        {
+          "id": "20.4",
+          "running": 84,
+          "title": "מדיניות החזרות ושירות לקוחות",
+          "file": "lessons/module-20/lesson-04.md"
+        }
+      ],
+      "quiz": "assessments/module-20-quiz.md"
+    },
+    {
+      "number": 21,
+      "title": "שיווק והשקה",
+      "project": "projects/m21-launch-plan.md",
+      "lessons": [
+        {
+          "id": "21.1",
+          "running": 85,
+          "title": "אינסטגרם וטיקטוק: צילום, רילס ולוח תוכן לחגים",
+          "file": "lessons/module-21/lesson-01.md"
+        },
+        {
+          "id": "21.2",
+          "running": 86,
+          "title": "מתנות לחברות",
+          "file": "lessons/module-21/lesson-02.md"
+        },
+        {
+          "id": "21.3",
+          "running": 87,
+          "title": "ביקורות, לקוחות חוזרים ומנויים",
+          "file": "lessons/module-21/lesson-03.md"
+        }
+      ],
+      "quiz": "assessments/module-21-quiz.md"
+    }
+  ]
+}
