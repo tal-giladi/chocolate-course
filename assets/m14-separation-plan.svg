@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" font-family="Arial, 'Noto Sans Hebrew', sans-serif">
+  <rect x="0" y="0" width="900" height="560" fill="#ffffff"/>
+  <text x="450" y="38" text-anchor="middle" direction="rtl" font-size="24" font-weight="bold" fill="#1a1a1a">יום ייצור עם אצווה לאורח אלרגי</text>
+  <text x="450" y="64" text-anchor="middle" direction="rtl" font-size="15" fill="#333333">קוראים מימין לשמאל. האצווה בלי האלרגן נכנסת ראשונה ויוצאת סגורה ומתויגת לפני שהאלרגן נפתח.</text>
+
+  <!-- arrow line -->
+  <line x1="820" y1="150" x2="90" y2="150" stroke="#1a1a1a" stroke-width="3"/>
+  <polygon points="80,150 96,141 96,159" fill="#1a1a1a"/>
+
+  <!-- step 1 -->
+  <rect x="725" y="95" width="150" height="110" rx="10" fill="#eef2f7" stroke="#1d3f7a" stroke-width="2"/>
+  <text x="800" y="125" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#1d3f7a">1. ניקוי</text>
+  <text x="800" y="150" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">אלרגנים סגורים ורחוקים</text>
+  <text x="800" y="170" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">משטח: מים וסבון</text>
+  <text x="800" y="190" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">ידיים: 20 שניות סבון</text>
+
+  <!-- step 2 -->
+  <rect x="550" y="95" width="160" height="110" rx="10" fill="#e8f4ea" stroke="#1f5d2c" stroke-width="3"/>
+  <text x="630" y="125" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#1f5d2c">2. אצוות האורח</text>
+  <text x="630" y="150" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">כלים מהקופסה המסומנת</text>
+  <text x="630" y="170" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">שוקולד משקית חדשה</text>
+  <text x="630" y="190" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">רכיבים שנבדקו בלבד</text>
+
+  <!-- step 3 -->
+  <rect x="380" y="95" width="155" height="110" rx="10" fill="#e8f4ea" stroke="#1f5d2c" stroke-width="2"/>
+  <text x="457" y="125" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#1f5d2c">3. סוגרים</text>
+  <text x="457" y="150" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">מכסים, אורזים</text>
+  <text x="457" y="170" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">תווית: מה בדקתי</text>
+  <text x="457" y="190" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">יוצא מהמטבח</text>
+
+  <!-- step 4 -->
+  <rect x="210" y="95" width="155" height="110" rx="10" fill="#fdf0e6" stroke="#8a4a12" stroke-width="2"/>
+  <text x="287" y="125" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#8a4a12">4. האצווה הרגילה</text>
+  <text x="287" y="150" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">רק עכשיו פותחים</text>
+  <text x="287" y="170" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">אגוזים, עוגיות, טחינה</text>
+  <text x="287" y="190" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">מהמעט אלרגנים להרבה</text>
+
+  <!-- step 5 -->
+  <rect x="40" y="95" width="155" height="110" rx="10" fill="#eef2f7" stroke="#1d3f7a" stroke-width="2"/>
+  <text x="117" y="125" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#1d3f7a">5. ניקוי סופי</text>
+  <text x="117" y="150" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">כל הכלים: מים וסבון</text>
+  <text x="117" y="170" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">סט האורח חוזר לקופסה</text>
+  <text x="117" y="190" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">שאריות עם תווית</text>
+
+  <!-- tools section -->
+  <text x="860" y="260" text-anchor="end" direction="rtl" font-size="19" font-weight="bold" fill="#1a1a1a">הכלים: מה מפרידים ומה אפשר לשטוף</text>
+
+  <rect x="470" y="280" width="400" height="200" rx="10" fill="#e8f4ea" stroke="#1f5d2c" stroke-width="2"/>
+  <text x="850" y="310" text-anchor="end" direction="rtl" font-size="16" font-weight="bold" fill="#1f5d2c">קופסת האורח (נפרד, מסומן)</text>
+  <text x="850" y="338" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">קשה לנקות עד הסוף, ולכן לא משותף:</text>
+  <text x="850" y="363" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">• מרית סיליקון ומברשת</text>
+  <text x="850" y="388" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">• שקיות זילוף רב־פעמיות, ספוג ומטלית</text>
+  <text x="850" y="413" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">• כף עץ, קרש עץ</text>
+  <text x="850" y="438" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">• תבנית סיליקון; שקית שוקולד פתוחה</text>
+  <text x="850" y="463" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">• לא משתמשים בכלל: מטחנה של פרלינה</text>
+
+  <rect x="40" y="280" width="410" height="200" rx="10" fill="#f3f3f3" stroke="#555555" stroke-width="2"/>
+  <text x="430" y="310" text-anchor="end" direction="rtl" font-size="16" font-weight="bold" fill="#333333">משותף, אחרי מים וסבון וייבוש</text>
+  <text x="430" y="338" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">משטחים חלקים שקל לראות עליהם לכלוך:</text>
+  <text x="430" y="363" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">• קערת זכוכית או נירוסטה</text>
+  <text x="430" y="388" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">• תבנית פוליקרבונט שלמה (בלי סדקים)</text>
+  <text x="430" y="413" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">• שפכטל מתכת, משקל (עם נייר מתחת)</text>
+  <text x="430" y="438" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">• מדחום דוקרני: מנגבים ושוטפים את הדוקרן</text>
+  <text x="430" y="463" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">• שיש: מים וסבון, ניגוב במטלית נקייה</text>
+
+  <text x="450" y="520" text-anchor="middle" direction="rtl" font-size="15" font-weight="bold" fill="#8a1f1f">גם אחרי כל זה: המטבח לא "נקי מ־". אומרים לאורח מה עשיתם, לא מבטיחים.</text>
+</svg>

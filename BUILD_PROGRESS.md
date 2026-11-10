@@ -32,7 +32,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - [x] Module 11 — אריזה ומתנה
 - [x] Module 12 — טבעוני ופרווה
 - [x] Module 13 — בריא יותר
-- [ ] Module 14 — אלרגיות ורגישויות
+- [x] Module 14 — אלרגיות ורגישויות
 - [ ] Module 15 — לפני שפותחים
 - [ ] Module 16 — בטיחות מזון ורישוי
 - [ ] Module 17 — כשרות לעסק
@@ -44,7 +44,7 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 
 ## Agents now
 
-- Module writers: module 14, module 15
+- Module writers: module 15, module 16
 
 ## Decisions and open questions
 

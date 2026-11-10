@@ -92,3 +92,8 @@
   - [56 · חטיפי שוקולד עם אגוזים, זרעים ופירות](lessons/module-13/lesson-04.md)
   - [57 · טענות בריאות: מה אסור לכתוב על האריזה](lessons/module-13/lesson-05.md)
   - [מבחן מודול 13](assessments/module-13-quiz.md)
+- **Module 14 — אלרגיות ורגישויות**
+  - [58 · בלי אגוזים, בלי בוטנים ובלי סויה](lessons/module-14/lesson-01.md)
+  - [59 · בלי גלוטן: איפה הוא מסתתר](lessons/module-14/lesson-02.md)
+  - [60 · הפרדה במטבח ומה אפשר להבטיח לאורח](lessons/module-14/lesson-03.md)
+  - [מבחן מודול 14](assessments/module-14-quiz.md)

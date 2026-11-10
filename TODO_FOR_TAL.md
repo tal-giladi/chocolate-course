@@ -13,3 +13,4 @@
 - Whether Israel's 2021 sweetener warning applies to chocolate with maltitol, and its exact wording (13.2, 13.5).
 - Whether Israel defines "ללא סוכר" / "ללא תוספת סוכר" (lessons use EU 1924/2006 as reference).
 - Status of allulose and monk fruit in Israel.
+- Confirm on gov.il whether the 2028 EU-labelling order was signed, and what allergen labelling is required today (lessons cite press).
