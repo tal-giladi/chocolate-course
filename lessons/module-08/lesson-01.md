@@ -14,8 +14,8 @@ sources:
     url: https://www.callebaut.com/en/chocolate-video/technique/hollow-figures/moulds
   - title: "Callebaut: Assembling your hollow figures"
     url: https://www.callebaut.com/en/chocolate-video/technique/hollow-figures/assembling
-  - title: "Callebaut: Hollow figures, what makes them perfect"
-    url: https://www.callebaut.com/en-AE/hollow-figures-what-makes-them-perfect
+  - title: "Food Network Kitchen: Halloween hot cocoa bombs (sealing halves on a warm skillet)"
+    url: https://www.foodnetwork.com/recipes/food-network-kitchen/halloween-hot-cocoa-bombs-11186809
   - title: "Callebaut Chocolate Academy: Troubleshooting moulded chocolates"
     url: https://www.callebaut.com/en/callebaut-chocolate-academy/troubleshooting/moulded-chocolates
   - title: "Le Cordon Bleu: Recipe, chocolate Easter egg"
@@ -68,6 +68,8 @@ last_verified: "2026-11-10"
 ### שפה עבה מחזיקה תפר
 
 Callebaut מציינים פרט קטן וחשוב: כשהתבנית מנקזת הפוכה על נייר (ולא על רשת), השפה יוצאת עבה יותר, ו"שפה עבה יותר יוצרת תפר חזק יותר". בבית: מנקזים על רשת כמה דקות, ואז מעבירים לנייר לעוד דקה־שתיים לפני הגירוד האחרון. כך מקבלים שפה רחבה של 3-4 מ"מ שיש עליה מה להדביק.
+
+רוצים כדור או ביצה צבעוניים? הצבע נכנס לתבנית **לפני** הקליפה, בדיוק כמו בבונבונים: חמאת קקאו צבעונית מטומפרת, מגרדים, ורק אז יוצקים את השכבה הראשונה ([05.3](../module-05/lesson-03.md)). בשיעור הזה מתרגלים בלי צבע, כדי לראות את הברק של השוקולד עצמו.
 
 ### טמפרטורת התבנית וקירור עם חום שיוצא
 

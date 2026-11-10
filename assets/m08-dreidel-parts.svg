@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" width="720" height="520" font-family="Arial, Helvetica, sans-serif" role="img" aria-label="סביבון שוקולד מפורק לחלקים: ידית מקו שוקולד מזולף באורך 2.5 ס&quot;מ, גוף קובייה מחובר משתי קליפות ריבוע של 3 ס&quot;מ, חוד בצורת חרוט מקונוס נייר אפייה, ואותיות נ ג ה פ מזולפות. כל החלקים מודבקים בשוקולד מטומפר">
+  <rect x="0" y="0" width="720" height="520" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+  <text x="360" y="32" font-size="20" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">סביבון מחלקים שנמכרים בישראל</text>
+
+  <!-- stem -->
+  <rect x="190" y="70" width="16" height="70" rx="5" fill="#5a3214" stroke="#222222" stroke-width="1.5"/>
+  <circle cx="194" cy="84" r="2.5" fill="#e74c3c"/><circle cx="202" cy="98" r="2.5" fill="#f1c40f"/><circle cx="195" cy="114" r="2.5" fill="#3498db"/><circle cx="203" cy="126" r="2.5" fill="#2ecc71"/>
+  <!-- glue dot -->
+  <ellipse cx="198" cy="152" rx="14" ry="5" fill="#c08a4a" stroke="#222222" stroke-width="1"/>
+
+  <!-- cube body: two shells -->
+  <rect x="148" y="166" width="100" height="48" fill="#7a4a24" stroke="#222222" stroke-width="2"/>
+  <rect x="148" y="220" width="100" height="48" fill="#7a4a24" stroke="#222222" stroke-width="2"/>
+  <line x1="140" y1="217" x2="256" y2="217" stroke="#c0392b" stroke-width="2" stroke-dasharray="5 3"/>
+  <text x="198" y="200" font-size="26" font-weight="bold" fill="#f3e2c7" text-anchor="middle" direction="rtl">נ</text>
+  <!-- glue dot -->
+  <ellipse cx="198" cy="280" rx="14" ry="5" fill="#c08a4a" stroke="#222222" stroke-width="1"/>
+
+  <!-- cone tip -->
+  <path d="M168 292 L228 292 L198 360 Z" fill="#5a3214" stroke="#222222" stroke-width="2"/>
+
+  <!-- labels (right side) -->
+  <g font-size="14" fill="#111111" direction="rtl">
+    <line x1="210" y1="100" x2="400" y2="86" stroke="#222222" stroke-width="1.5"/>
+    <text x="700" y="80" text-anchor="end">ידית: קו שוקולד מזולף בעובי 7-8 מ"מ,</text>
+    <text x="700" y="98" text-anchor="end">חתוך ל־2.5 ס"מ בסכין חמימה (כ־2 גרם)</text>
+
+    <line x1="252" y1="190" x2="400" y2="168" stroke="#222222" stroke-width="1.5"/>
+    <text x="700" y="162" text-anchor="end">גוף: שתי קליפות מתבנית פרלינים ריבועית</text>
+    <text x="700" y="180" text-anchor="end">של כ־3 ס"מ, מחוברות שפה אל שפה (כ־10-12 גרם)</text>
+
+    <line x1="258" y1="217" x2="400" y2="226" stroke="#c0392b" stroke-width="1.5"/>
+    <text x="700" y="224" text-anchor="end" fill="#8e1d12">תפר: מחבת חמימה או דבק מטומפר (08.1)</text>
+
+    <line x1="214" y1="280" x2="400" y2="270" stroke="#222222" stroke-width="1.5"/>
+    <text x="700" y="268" text-anchor="end">נקודת דבק: שוקולד מטומפר בלבד</text>
+
+    <line x1="216" y1="325" x2="400" y2="318" stroke="#222222" stroke-width="1.5"/>
+    <text x="700" y="312" text-anchor="end">חוד: חרוט מקונוס נייר אפייה מלא בשוקולד,</text>
+    <text x="700" y="330" text-anchor="end">בסיס 2.5 ס"מ, מיושר על מחבת (כ־5-6 גרם)</text>
+  </g>
+
+  <!-- letters strip -->
+  <rect x="40" y="390" width="640" height="56" rx="8" fill="#f7f1ea" stroke="#5a3214" stroke-width="2"/>
+  <text x="660" y="414" font-size="14" fill="#111111" text-anchor="end" direction="rtl">אותיות לארבע הפאות, מזולפות על אצטט בשוקולד בצבע מנוגד:</text>
+  <text x="660" y="436" font-size="20" font-weight="bold" fill="#3b1f0b" text-anchor="end" direction="rtl">נ  ג  ה  פ   (בחו"ל: נ  ג  ה  ש)</text>
+
+  <text x="360" y="476" font-size="14" fill="#111111" text-anchor="middle" direction="rtl">סביבון אחד: כ־18-22 גרם שוקולד. מארז של 5: כ־100-110 גרם</text>
+  <text x="360" y="500" font-size="12" fill="#444444" text-anchor="middle" direction="rtl">משקלים: חישוב לפי נפח וצפיפות שוקולד של כ־1.3 גרם לסמ"ק; שקלו את שלכם</text>
+</svg>

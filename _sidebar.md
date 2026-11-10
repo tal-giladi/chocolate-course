@@ -52,3 +52,9 @@
   - [30 · מילויי פירות וג'לי](lessons/module-07/lesson-03.md)
   - [31 · נוגט, מרציפן וחטיף בוטנים וקרמל](lessons/module-07/lesson-04.md)
   - [מבחן מודול 7](assessments/module-07-quiz.md)
+- **Module 8 — צורות תלת־ממד**
+  - [32 · יציקה חלולה בשני חצאים](lessons/module-08/lesson-01.md)
+  - [33 · סביבוני שוקולד](lessons/module-08/lesson-02.md)
+  - [34 · ביצים, לבבות ופצצות שוקו](lessons/module-08/lesson-03.md)
+  - [35 · דמויות קטנות ותבניות מודפסות](lessons/module-08/lesson-04.md)
+  - [מבחן מודול 8](assessments/module-08-quiz.md)

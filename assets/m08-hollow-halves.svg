@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="720" height="440" font-family="Arial, Helvetica, sans-serif" role="img" aria-label="חיבור שני חצאי כדור משוקולד: בכל חצי שתי שכבות ושפה רחבה של 3-4 מילימטר; מניחים כל חצי שנייה־שתיים על מחבת חמימה עד שהשפה נמסה דק, ומצמידים מיד; או מזלפים קו דק של שוקולד מטומפר על השפה">
+  <rect x="0" y="0" width="720" height="440" fill="#ffffff" stroke="#222222" stroke-width="2"/>
+  <text x="360" y="32" font-size="20" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">חיבור שני חצאים חלולים</text>
+
+  <!-- Step 1: half on warm pan (right side, RTL first) -->
+  <text x="560" y="66" font-size="15" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">1. שפה על מחבת חמימה</text>
+  <path d="M480 200 A80 80 0 0 1 640 200" fill="none" stroke="#5a3214" stroke-width="10"/>
+  <path d="M492 200 A68 68 0 0 1 628 200" fill="none" stroke="#7a4a24" stroke-width="6"/>
+  <rect x="472" y="198" width="22" height="8" fill="#3b1f0b"/>
+  <rect x="626" y="198" width="22" height="8" fill="#3b1f0b"/>
+  <rect x="440" y="208" width="240" height="14" rx="4" fill="#9aa3ad" stroke="#333333" stroke-width="2"/>
+  <path d="M500 240 q6 -8 0 -16 M540 240 q6 -8 0 -16 M580 240 q6 -8 0 -16 M620 240 q6 -8 0 -16" fill="none" stroke="#c0392b" stroke-width="2"/>
+  <g font-size="13" fill="#111111" direction="rtl">
+    <text x="680" y="262" text-anchor="end">מחבת נון־סטיק, אש נמוכה מאוד:</text>
+    <text x="680" y="280" text-anchor="end">חמימה ביד, לא חמה. 1-2 שניות לכל חצי</text>
+    <line x1="636" y1="118" x2="690" y2="96" stroke="#222222" stroke-width="1.5"/>
+    <text x="700" y="90" text-anchor="end">שתי שכבות, 2-3 מ"מ</text>
+    <line x1="648" y1="202" x2="696" y2="170" stroke="#222222" stroke-width="1.5"/>
+    <text x="712" y="160" text-anchor="end">שפה 3-4 מ"מ</text>
+  </g>
+
+  <!-- arrow -->
+  <path d="M410 170 L330 170" stroke="#222222" stroke-width="3" fill="none"/>
+  <path d="M330 170 l14 -8 l0 16 z" fill="#222222"/>
+  <text x="370" y="160" font-size="13" fill="#111111" text-anchor="middle" direction="rtl">מיד</text>
+
+  <!-- Step 2: joined sphere (left) -->
+  <text x="170" y="66" font-size="15" font-weight="bold" fill="#111111" text-anchor="middle" direction="rtl">2. מצמידים, לא מסובבים</text>
+  <circle cx="170" cy="190" r="80" fill="none" stroke="#5a3214" stroke-width="10"/>
+  <circle cx="170" cy="190" r="68" fill="none" stroke="#7a4a24" stroke-width="6"/>
+  <line x1="84" y1="190" x2="256" y2="190" stroke="#e0b070" stroke-width="3" stroke-dasharray="6 3"/>
+  <g font-size="13" fill="#111111" direction="rtl">
+    <line x1="256" y1="190" x2="300" y2="236" stroke="#222222" stroke-width="1.5"/>
+    <text x="330" y="256" text-anchor="end">תפר: מחזיקים 10-20 שניות,</text>
+    <text x="330" y="274" text-anchor="end">מנקים עודף בכפפה</text>
+  </g>
+
+  <!-- Alternative glue -->
+  <rect x="40" y="312" width="640" height="96" rx="8" fill="#f7f1ea" stroke="#5a3214" stroke-width="2"/>
+  <text x="660" y="340" font-size="15" font-weight="bold" fill="#111111" text-anchor="end" direction="rtl">חלופה: דבק של שוקולד מטומפר</text>
+  <text x="660" y="360" font-size="13" fill="#111111" text-anchor="end" direction="rtl">קו דק (1-2 מ"מ) משקית זילוף על שפת חצי אחד, ומצמידים מיד.</text>
+  <text x="660" y="378" font-size="13" fill="#111111" text-anchor="end" direction="rtl">לא שוקולד מומס שלא טומפר: הוא נשאר רך בתפר ומלבין.</text>
+  <text x="660" y="398" font-size="12" fill="#444444" text-anchor="end" direction="rtl">מקורות: Callebaut (צלחת חמה, שפה עבה = תפר חזק), Le Cordon Bleu (שכבה דקה של שוקולד מטומפר על השפה)</text>
+</svg>
