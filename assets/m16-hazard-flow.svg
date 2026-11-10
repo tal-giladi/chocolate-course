@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" width="900" height="640" font-family="Arial, 'Noto Sans Hebrew', sans-serif">
+  <rect x="0" y="0" width="900" height="640" fill="#ffffff"/>
+  <text x="450" y="36" text-anchor="middle" direction="rtl" font-size="24" font-weight="bold" fill="#1a1a1a">מסלול המוצר: איפה הסכנה ומה הבקרה</text>
+  <text x="450" y="62" text-anchor="middle" direction="rtl" font-size="15" fill="#333333">קוראים מימין לשמאל, ואז בשורה השנייה. מסגרת אדומה עבה = נקודה שבה טעות מגיעה ישר ללקוח (דוגמה, לא רשימה רשמית).</text>
+
+  <!-- row 1 arrow -->
+  <line x1="860" y1="190" x2="140" y2="190" stroke="#1a1a1a" stroke-width="3"/>
+  <!-- connector from step 4 to step 5 -->
+  <polyline points="145,285 145,315 880,315 880,440 790,440" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <polygon points="782,440 798,431 798,449" fill="#1a1a1a"/>
+  <!-- row 2 line -->
+  <line x1="780" y1="440" x2="120" y2="440" stroke="#1a1a1a" stroke-width="3"/>
+  <polygon points="110,440 126,431 126,449" fill="#1a1a1a"/>
+  <text x="60" y="436" text-anchor="middle" direction="rtl" font-size="15" font-weight="bold" fill="#1a1a1a">לקוח</text>
+
+  <!-- step 1 -->
+  <rect x="680" y="95" width="190" height="190" rx="10" fill="#eef2f7" stroke="#1d3f7a" stroke-width="2"/>
+  <text x="775" y="122" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#1d3f7a">1. קבלת חומרי גלם</text>
+  <text x="775" y="150" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">סכנה: אלרגן חדש באריזה,</text>
+  <text x="775" y="168" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">שקית קרועה, תאריך שעבר</text>
+  <text x="775" y="198" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">בקרה: קוראים כל תווית,</text>
+  <text x="775" y="216" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">רושמים ספק, אצווה ותאריך</text>
+  <text x="775" y="246" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">רשומה: יומן קבלה</text>
+
+  <!-- step 2 -->
+  <rect x="470" y="95" width="190" height="190" rx="10" fill="#eef2f7" stroke="#1d3f7a" stroke-width="2"/>
+  <text x="565" y="122" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#1d3f7a">2. אחסון חומרי גלם</text>
+  <text x="565" y="150" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">סכנה: שמנת חמה, ריחות,</text>
+  <text x="565" y="168" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">לחות, מזיקים</text>
+  <text x="565" y="198" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">בקרה: שוקולד 12-18°C,</text>
+  <text x="565" y="216" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">שמנת במקרר עד 4°C</text>
+  <text x="565" y="246" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">רשומה: יומן טמפרטורה</text>
+
+  <!-- step 3 -->
+  <rect x="260" y="95" width="190" height="190" rx="10" fill="#eef2f7" stroke="#1d3f7a" stroke-width="2"/>
+  <text x="355" y="122" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#1d3f7a">3. הכנה וטמפרור</text>
+  <text x="355" y="150" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">סכנה: חיידקים מהידיים,</text>
+  <text x="355" y="168" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">מגע צולב, גוף זר</text>
+  <text x="355" y="198" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">בקרה: ידיים 20 שניות בסבון,</text>
+  <text x="355" y="216" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">סדר אצוות, שיער אסוף</text>
+  <text x="355" y="246" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">רשומה: רשימת ניקוי</text>
+
+  <!-- step 4 (critical) -->
+  <rect x="50" y="95" width="190" height="190" rx="10" fill="#fbeeee" stroke="#a31515" stroke-width="5"/>
+  <text x="145" y="122" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#a31515">4. מילוי עם שמנת</text>
+  <text x="145" y="150" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">סכנה: פעילות מים גבוהה</text>
+  <text x="145" y="168" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">(גנאש 1:1 בערך 0.88)</text>
+  <text x="145" y="198" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">בקרה: מתכון שקול וקבוע,</text>
+  <text x="145" y="216" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">עד שעתיים מחוץ למקרר</text>
+  <text x="145" y="246" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">רשומה: שעה נכנס/יצא</text>
+
+  <!-- step 5 (critical) -->
+  <rect x="580" y="345" width="200" height="190" rx="10" fill="#fbeeee" stroke="#a31515" stroke-width="5"/>
+  <text x="680" y="372" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#a31515">5. אריזה ותיוג</text>
+  <text x="680" y="400" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">סכנה: תווית בלי אלרגן,</text>
+  <text x="680" y="418" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">תאריך לא נכון</text>
+  <text x="680" y="448" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">בקרה: התווית מול כרטיס</text>
+  <text x="680" y="466" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">המתכון, מספר אצווה</text>
+  <text x="680" y="496" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">רשומה: דף אצווה</text>
+
+  <!-- step 6 -->
+  <rect x="360" y="345" width="200" height="190" rx="10" fill="#eef2f7" stroke="#1d3f7a" stroke-width="2"/>
+  <text x="460" y="372" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#1d3f7a">6. אחסון מוצר מוכן</text>
+  <text x="460" y="400" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">סכנה: חום, עיבוי,</text>
+  <text x="460" y="418" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">מוצר שעבר תאריך</text>
+  <text x="460" y="448" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">בקרה: 18-20°C או מקרר,</text>
+  <text x="460" y="466" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">ראשון שנכנס, ראשון שיוצא</text>
+  <text x="460" y="496" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">רשומה: יומן טמפרטורה</text>
+
+  <!-- step 7 (critical) -->
+  <rect x="140" y="345" width="200" height="190" rx="10" fill="#fbeeee" stroke="#a31515" stroke-width="5"/>
+  <text x="240" y="372" text-anchor="middle" direction="rtl" font-size="17" font-weight="bold" fill="#a31515">7. מסירה ומשלוח</text>
+  <text x="240" y="400" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">סכנה: רכב חם, מעל 34°C</text>
+  <text x="240" y="418" text-anchor="middle" direction="rtl" font-size="13" fill="#7a1d1d">נמס; שמנת בחוץ שעות</text>
+  <text x="240" y="448" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">בקרה: קופסה מבודדת,</text>
+  <text x="240" y="466" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">שעת יציאה ושעת מסירה</text>
+  <text x="240" y="496" text-anchor="middle" direction="rtl" font-size="13" fill="#1a1a1a">רשומה: יומן משלוחים</text>
+
+  <!-- legend -->
+  <rect x="610" y="568" width="26" height="18" rx="3" fill="#fbeeee" stroke="#a31515" stroke-width="4"/>
+  <text x="600" y="582" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">שלב שבו מגדירים גבול ובודקים כל אצווה</text>
+  <rect x="290" y="568" width="26" height="18" rx="3" fill="#eef2f7" stroke="#1d3f7a" stroke-width="2"/>
+  <text x="280" y="582" text-anchor="end" direction="rtl" font-size="14" fill="#1a1a1a">תנאי בסיס: ניקיון, סדר, תיעוד</text>
+  <text x="450" y="618" text-anchor="middle" direction="rtl" font-size="13" fill="#333333">מספרים: Kansas State (גנאש), UF/IFAS (שעתיים), Callebaut (12-18°C), מודול 11 (רכב). השלבים לפי שבעת עקרונות HACCP של ה־FDA.</text>
+</svg>

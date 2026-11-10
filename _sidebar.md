@@ -97,3 +97,10 @@
   - [59 · בלי גלוטן: איפה הוא מסתתר](lessons/module-14/lesson-02.md)
   - [60 · הפרדה במטבח ומה אפשר להבטיח לאורח](lessons/module-14/lesson-03.md)
   - [מבחן מודול 14](assessments/module-14-quiz.md)
+
+- חלק ד — עסק: חנות שוקולד אונליין
+- **Module 15 — לפני שפותחים**
+  - [61 · מודלים עסקיים לחנות שוקולד](lessons/module-15/lesson-01.md)
+  - [62 · מחקר שוק: מתחרים, מחירים ועונתיות](lessons/module-15/lesson-02.md)
+  - [63 · בחירת נישה](lessons/module-15/lesson-03.md)
+  - [מבחן מודול 15](assessments/module-15-quiz.md)
