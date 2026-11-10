@@ -129,3 +129,9 @@
   - [79 · תכנון ייצור לעונה](lessons/module-19/lesson-03.md)
   - [80 · גיליון תמחור מלא](lessons/module-19/lesson-04.md)
   - [מבחן מודול 19](assessments/module-19-quiz.md)
+- **Module 20 — חנות אונליין ומשלוחים**
+  - [81 · פלטפורמות לחנות אונליין](lessons/module-20/lesson-01.md)
+  - [82 · סליקה, תשלום וחשבוניות](lessons/module-20/lesson-02.md)
+  - [83 · משלוח שוקולד בחום הישראלי](lessons/module-20/lesson-03.md)
+  - [84 · מדיניות החזרות ושירות לקוחות](lessons/module-20/lesson-04.md)
+  - [מבחן מודול 20](assessments/module-20-quiz.md)

@@ -38,13 +38,13 @@ until `npm run check-course` reports `0 problems`. Repo: `tal-giladi/chocolate-c
 - [x] Module 17 — כשרות לעסק
 - [x] Module 18 — מוצר, תווית וחיי מדף
 - [x] Module 19 — מספרים
-- [ ] Module 20 — חנות אונליין ומשלוחים
+- [x] Module 20 — חנות אונליין ומשלוחים
 - [ ] Module 21 — שיווק והשקה
 - [ ] Final QA (check-course 0 problems, link check, TODO_FOR_TAL)
 
 ## Agents now
 
-- Module writers: module 20, module 21
+- Module writers: module 21
 
 ## Decisions and open questions
 
